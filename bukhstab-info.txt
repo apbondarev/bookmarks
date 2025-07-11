@@ -1,0 +1,2609 @@
+InfoBegin
+InfoKey: Creator
+InfoValue: ABBYY FineReader
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20050121210340+10'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20050118231900Z
+PdfID0: db349cab45330f49b571d1e8cd8fc191
+PdfID1: 33e085a4b25eca46871e5be2e3878c7b
+NumberOfPages: 385
+BookmarkBegin
+BookmarkTitle: 
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: Предисловие
+BookmarkLevel: 2
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Обозначения
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 1. Предмет теории чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 2. Краткий исторический очерк развития теории чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Глава 1. Общие основы теории чисел
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 1. Множества с операциями
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 2. Числа
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Аксиома индукции
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Аксиома Архимеда
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Теорема 1 Об остатках
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 3. Последовательности. Функции
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+
+BookmarkBegin
+BookmarkTitle: Глава 2. Простые числа
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1. Простые и составные числа
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Теорема 16 Наименьший делитель любого натурального числа простое число
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Теорема 17 Любое натуральное число можно предствить в виде произведения простых чисел
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Теорема 18 Представление натурального числа в виде произведения простых чисел единственно
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 2. Факторизация
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+
+BookmarkBegin
+BookmarkTitle: Глава 3. Наибольший общий делитель. Наименьшее общее кратное
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 1. Общие делители и общие кратные целых чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Теорема 26 У любого целого числа конечное число делителей
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Теорема 27 О существовании НОД
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Теорема 29 О сокращении НОД на множитель
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 2. Алгоритм Евклида
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Теорема 36 НОД в алгоритме Евклида
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: 3. Взаимно простые числа
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Теорема 38 Критерий взаимной простоты чисел и каноническое разложение на множители
+BookmarkLevel: 3
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Теорема 39 Связь между НОД и делимостью чисел
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Теорема 41 Важная лемма
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Теорема 42 Произведение чисел взаимно простых с одним и тем же числом
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Теорема 43 Взаимная простота степеней
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Теорема 45 Делитель произведения двух взамно простых чисел
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Теорема 46 Когда произведение взамно простых чисел равно квадрату?
+BookmarkLevel: 3
+BookmarkPageNumber: 48
+
+BookmarkBegin
+BookmarkTitle: Глава 4. Функция [x]
+BookmarkLevel: 1
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 1. Разложение п! на простые множители
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 2. Точки с целочисленными координатами
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Глава 5. Конечные цепные дроби
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 1. Представление рациональных чисел цепными дробями
+BookmarkLevel: 2
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 2. Подходящие дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Глава 6. Иррациональные числа
+BookmarkLevel: 1
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 1. Критерии иррациональности
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: 2. Иррациональность е и π
+BookmarkLevel: 2
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Исторические коммеитарии
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Глава 7. Сравнения
+BookmarkLevel: 1
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Глава 8. Классы
+BookmarkLevel: 1
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 1. Распределение чисел в классах по заданному модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 2. Кольцо классов
+BookmarkLevel: 2
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: Глава 9. Полная и приведенная системы вычетов
+BookmarkLevel: 1
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 1. Полная система вычетов
+BookmarkLevel: 2
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 2. Приведенная снстема вычетов
+BookmarkLevel: 2
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Глава 10. Функция Эйлера
+BookmarkLevel: 1
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Глава 11. Теоремы Ферма и Эйлера
+BookmarkLevel: 1
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: 1. Основные теоремы
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 2. Обобщение теоремы Эйлера
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Глава 12. Группа классов, взаимно простых с модулем
+BookmarkLevel: 1
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 1. Группа классов
+BookmarkLevel: 2
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: 2. Поле классов по простому модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Глава 13. Сравнения с неизвестной величиной
+BookmarkLevel: 1
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: 1. Сравнения с одной неизвестной
+BookmarkLevel: 2
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: 2. Системы сравнений
+BookmarkLevel: 2
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Глава 14. Сравнения 1-й степени
+BookmarkLevel: 1
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 1. Сравнение 1-й степени
+BookmarkLevel: 2
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 2. Неопределенное уравнение 1-й степени
+BookmarkLevel: 2
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 3. Система сравнений 1-й степени
+BookmarkLevel: 2
+BookmarkPageNumber: 117
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 121
+BookmarkBegin
+BookmarkTitle: Глава 15. Сравнения по простому модулю
+BookmarkLevel: 1
+BookmarkPageNumber: 126
+BookmarkBegin
+BookmarkTitle: 1. Сравнение по простому модулю с одним неизвестным
+BookmarkLevel: 2
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: 2. Сравнение по простому модулю с несколькими нейзвестными
+BookmarkLevel: 2
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: 3. Приложения: теорема Вильсона, теорема Шевалье
+BookmarkLevel: 2
+BookmarkPageNumber: 132
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: Глава 16. Сравнения по составному модулю
+BookmarkLevel: 1
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: Глава 17. Степенные вычеты
+BookmarkLevel: 1
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 1. Показатели классов по заданному модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 2. Число классов с заданным показателем
+BookmarkLevel: 2
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Глава 18. Первообразные корни
+BookmarkLevel: 1
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 1. Первообразные корни по простому модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 2. Первообразные корни по составным модулям
+BookmarkLevel: 2
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Глава 19. Индексы
+BookmarkLevel: 1
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 1. Общие свойства
+BookmarkLevel: 2
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: 2. Индексы по простому модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: 3. Индексы по составным модулям
+BookmarkLevel: 2
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 163
+BookmarkBegin
+BookmarkTitle: Глава 20. Двучленные сравнения
+BookmarkLevel: 1
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: 1. Двучленные сравнения по простому модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: 2. Двучленные сравнения по составному модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: 3. Квадратные корни из единицы
+BookmarkLevel: 2
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: 4. Показательные сравнения
+BookmarkLevel: 2
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Глава 21. Сравнения 2-й степени по простому модулю
+BookmarkLevel: 1
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 1. Квадратичные вычеты и невычеты
+BookmarkLevel: 2
+BookmarkPageNumber: 173
+BookmarkBegin
+BookmarkTitle: 2. Символ Лежандра
+BookmarkLevel: 2
+BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: 3. Закон взаимности
+BookmarkLevel: 2
+BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: 4. Некоторые приложения теории квадратичных вычетов
+BookmarkLevel: 2
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: 5. Символ Якоби
+BookmarkLevel: 2
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 196
+BookmarkBegin
+BookmarkTitle: Глава 22. Сравнения 2-й степени по составному модулю
+BookmarkLevel: 1
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 1. Сравнения 2-й степени по модулю p^k, где р-простое число
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 2. Сравнение 2-й степени по произвольному составному модулю
+BookmarkLevel: 2
+BookmarkPageNumber: 201
+BookmarkBegin
+BookmarkTitle: Глава 23. Арифметические приложения теории сравнений
+BookmarkLevel: 1
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: 1. Признаки делимости
+BookmarkLevel: 2
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: 2. Проверка арифметических действий
+BookmarkLevel: 2
+BookmarkPageNumber: 206
+BookmarkBegin
+BookmarkTitle: 3. Длина периода десятичной дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 207
+BookmarkBegin
+BookmarkTitle: Глава 24. Бесконечные цепные дроби
+BookmarkLevel: 1
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 1. Сходимость бесконечных цепных дробей
+BookmarkLevel: 2
+BookmarkPageNumber: 211
+BookmarkBegin
+BookmarkTitle: 2. Разложение действительных чисел в цепные дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 3. Разложение числа е в цепную дробь
+BookmarkLevel: 2
+BookmarkPageNumber: 222
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 224
+BookmarkBegin
+BookmarkTitle: Глава 25. Приближение действительных чисел рациональными дробями
+BookmarkLevel: 1
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: 1. Приближение действительных чисел подходящими дробями
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: 2. Приближение действительных чисел рациональными дробями с заданным ограничением для знаменателей
+BookmarkLevel: 2
+BookmarkPageNumber: 231
+BookmarkBegin
+BookmarkTitle: 3. Приближение действительных чисел бесконечной последовательностью рациональных чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: Глава 26. Наилучшие приближения
+BookmarkLevel: 1
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 1. Отыскание наилучших приближений с помощью цепных дробей
+BookmarkLevel: 2
+BookmarkPageNumber: 238
+BookmarkBegin
+BookmarkTitle: 2. Множество всех наилучших приблнжений к заданному действительному числу
+BookmarkLevel: 2
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: Глава 27. Последовательности Фарея
+BookmarkLevel: 1
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 1. Фареевы дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: 2. Приближение действительных чисел фареевымн дробями
+BookmarkLevel: 2
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: Глава 28. Квадратические иррациональности и периодические цепные дроби
+BookmarkLevel: 1
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 1. Разложение квадратических иррациональностей в цепные дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 2. Чисто периодические разложения
+BookmarkLevel: 2
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 259
+BookmarkBegin
+BookmarkTitle: Глава 29. Алгебраические числа
+BookmarkLevel: 1
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: 1. Поле алгебраических чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: 2. Рациональные приближения алгебраических чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 265
+BookmarkBegin
+BookmarkTitle: Глава 30. Трансцендентные числа
+BookmarkLevel: 1
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 1. Трансцендентные числа Лиувилля
+BookmarkLevel: 2
+BookmarkPageNumber: 271
+BookmarkBegin
+BookmarkTitle: 2. Трансцендентность числа e. Современное состояние вопроса о трансцендентных числах
+BookmarkLevel: 2
+BookmarkPageNumber: 274
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: Глава 31. Представление чисел квадратичными формами
+BookmarkLevel: 1
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: 1. Общие свойства бинарных квадратнчных форм
+BookmarkLevel: 2
+BookmarkPageNumber: 279
+BookmarkBegin
+BookmarkTitle: 2. Представление натуральных чисел положительно определенными квадратичными формами
+BookmarkLevel: 2
+BookmarkPageNumber: 287
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: Глава 32. Некоторые диофантовы уравнения
+BookmarkLevel: 1
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: 1. Представление чисел в виде суммы двух квадратов и в виде x^2 + 2y^2
+BookmarkLevel: 2
+BookmarkPageNumber: 297
+BookmarkBegin
+BookmarkTitle: 2. Представление натуральных чисел в виде суммы четырех квадрaтов
+BookmarkLevel: 2
+BookmarkPageNumber: 300
+BookmarkBegin
+BookmarkTitle: 3. Проблема Варинга
+BookmarkLevel: 2
+BookmarkPageNumber: 303
+BookmarkBegin
+BookmarkTitle: 4. Неопределенное уравнение Ферма
+BookmarkLevel: 2
+BookmarkPageNumber: 306
+BookmarkBegin
+BookmarkTitle: 5. Проблема Ферма
+BookmarkLevel: 2
+BookmarkPageNumber: 309
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: Глава 33. Числовые функции
+BookmarkLevel: 1
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 1. Число и сумма делителей
+BookmarkLevel: 2
+BookmarkPageNumber: 316
+BookmarkBegin
+BookmarkTitle: 2. Функция Мёбиуса
+BookmarkLevel: 2
+BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: 3. Дзета-функция Римана
+BookmarkLevel: 2
+BookmarkPageNumber: 322
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 323
+BookmarkBegin
+BookmarkTitle: Глава 34. Средние значения числовых функций
+BookmarkLevel: 1
+BookmarkPageNumber: 325
+BookmarkBegin
+BookmarkTitle: 1. Среднее значение числа делителей. Среднее значение суммы делителей
+BookmarkLevel: 2
+BookmarkPageNumber: 325
+BookmarkBegin
+BookmarkTitle: 2. Среднее значение функции Эйлера
+BookmarkLevel: 2
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: 3. Числа, свободные от квадратов
+BookmarkLevel: 2
+BookmarkPageNumber: 330
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 332
+BookmarkBegin
+BookmarkTitle: Глава 35. Распределение простых чисел в натуральном ряду
+BookmarkLevel: 1
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: 1. Неравенства Чебышева для функции, выражающей число простых чисел в заданных пределах
+BookmarkLevel: 2
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: 2. Обзор дальнейших результатов
+BookmarkLevel: 2
+BookmarkPageNumber: 341
+BookmarkBegin
+BookmarkTitle: 3. Оценки некоторых сумм с простыми числами
+BookmarkLevel: 2
+BookmarkPageNumber: 344
+BookmarkBegin
+BookmarkTitle: 4. Формула Мейсселя
+BookmarkLevel: 2
+BookmarkPageNumber: 350
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 354
+BookmarkBegin
+BookmarkTitle: Глава 36. Распределение простых чисел в арифметических прогрессиях. Аддитивные задачи
+BookmarkLevel: 1
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: 1. Простые числа в арифметической прогрессии
+BookmarkLevel: 2
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: 2. Проблемы аддитивной теории простых чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 361
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 369
+BookmarkBegin
+BookmarkTitle: Таблицы индексов
+BookmarkLevel: 2
+BookmarkPageNumber: 373
+BookmarkBegin
+BookmarkTitle: Таблица простых чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 380
+
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 141.12 209.16
+PageMediaDimensions: 141.12 209.16
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 431 603
+PageMediaDimensions: 431 603
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 378 603
+PageMediaDimensions: 378 603
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 425 603
+PageMediaDimensions: 425 603
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 74
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 75
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 76
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 77
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 78
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 79
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 80
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 81
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 82
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 83
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 84
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 85
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 86
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 87
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 88
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 89
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 90
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 91
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 92
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 93
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 94
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 95
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 96
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 97
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 98
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 99
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 100
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 101
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 102
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 103
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 104
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 105
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 106
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 107
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 108
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 109
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 110
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 111
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 112
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 113
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 114
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 115
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 116
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 117
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 118
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 119
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 120
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 121
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 122
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 123
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 124
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 125
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 126
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 127
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 128
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 129
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 130
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 131
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 132
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 133
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 134
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 135
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 136
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 137
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 138
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 139
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 140
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 141
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 142
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 143
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 144
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 145
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 146
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 147
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 148
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 149
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 150
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 151
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 152
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 153
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 154
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 604
+PageMediaDimensions: 402 604
+PageMediaBegin
+PageMediaNumber: 155
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 156
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 157
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 158
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 159
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 160
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 161
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 162
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 163
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 164
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 165
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 166
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 167
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 168
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 169
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 170
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 171
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 172
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 173
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 174
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 175
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 176
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 177
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 178
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 179
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 180
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 181
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 182
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 183
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 184
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 185
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 186
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 187
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 188
+PageMediaRotation: 0
+PageMediaRect: 0 0 405 603
+PageMediaDimensions: 405 603
+PageMediaBegin
+PageMediaNumber: 189
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 190
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 191
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 192
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 193
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 194
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 604
+PageMediaDimensions: 396 604
+PageMediaBegin
+PageMediaNumber: 195
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 196
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 197
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 198
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 199
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 200
+PageMediaRotation: 0
+PageMediaRect: 0 0 392 603
+PageMediaDimensions: 392 603
+PageMediaBegin
+PageMediaNumber: 201
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 202
+PageMediaRotation: 0
+PageMediaRect: 0 0 392 603
+PageMediaDimensions: 392 603
+PageMediaBegin
+PageMediaNumber: 203
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 204
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 205
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 206
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 207
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 208
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 209
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 210
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 211
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 212
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 213
+PageMediaRotation: 0
+PageMediaRect: 0 0 419 603
+PageMediaDimensions: 419 603
+PageMediaBegin
+PageMediaNumber: 214
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 215
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 216
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 217
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 218
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 219
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 220
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 221
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 222
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 223
+PageMediaRotation: 0
+PageMediaRect: 0 0 420 603
+PageMediaDimensions: 420 603
+PageMediaBegin
+PageMediaNumber: 224
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 225
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 226
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 227
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 228
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 229
+PageMediaRotation: 0
+PageMediaRect: 0 0 417 603
+PageMediaDimensions: 417 603
+PageMediaBegin
+PageMediaNumber: 230
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 604
+PageMediaDimensions: 396 604
+PageMediaBegin
+PageMediaNumber: 231
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 232
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 233
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 234
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 235
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 236
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 237
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 238
+PageMediaRotation: 0
+PageMediaRect: 0 0 392 603
+PageMediaDimensions: 392 603
+PageMediaBegin
+PageMediaNumber: 239
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 240
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 241
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 242
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 243
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 244
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 245
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 246
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 247
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 248
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 249
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 250
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 251
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 252
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 604
+PageMediaDimensions: 396 604
+PageMediaBegin
+PageMediaNumber: 253
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 254
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 255
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 256
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 257
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 258
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 259
+PageMediaRotation: 0
+PageMediaRect: 0 0 414 603
+PageMediaDimensions: 414 603
+PageMediaBegin
+PageMediaNumber: 260
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 261
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 262
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 263
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 264
+PageMediaRotation: 0
+PageMediaRect: 0 0 393 603
+PageMediaDimensions: 393 603
+PageMediaBegin
+PageMediaNumber: 265
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 266
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 267
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 268
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 604
+PageMediaDimensions: 399 604
+PageMediaBegin
+PageMediaNumber: 269
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 270
+PageMediaRotation: 0
+PageMediaRect: 0 0 394 603
+PageMediaDimensions: 394 603
+PageMediaBegin
+PageMediaNumber: 271
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 272
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 273
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 274
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 275
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 276
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 277
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 278
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 279
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 280
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 281
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 282
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 283
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 284
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 285
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 286
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 287
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 288
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 289
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 290
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 291
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 292
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 293
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 294
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 295
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 296
+PageMediaRotation: 0
+PageMediaRect: 0 0 395 603
+PageMediaDimensions: 395 603
+PageMediaBegin
+PageMediaNumber: 297
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 298
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 299
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 300
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 301
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 302
+PageMediaRotation: 0
+PageMediaRect: 0 0 396 603
+PageMediaDimensions: 396 603
+PageMediaBegin
+PageMediaNumber: 303
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 304
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 305
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 306
+PageMediaRotation: 0
+PageMediaRect: 0 0 404 603
+PageMediaDimensions: 404 603
+PageMediaBegin
+PageMediaNumber: 307
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 308
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 309
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 310
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 311
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 312
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 313
+PageMediaRotation: 0
+PageMediaRect: 0 0 405 603
+PageMediaDimensions: 405 603
+PageMediaBegin
+PageMediaNumber: 314
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 315
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 316
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 317
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 318
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 319
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 320
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 321
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 322
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 323
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 324
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 325
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 326
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 327
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 328
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 329
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 330
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 331
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 332
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 333
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 334
+PageMediaRotation: 0
+PageMediaRect: 0 0 404 603
+PageMediaDimensions: 404 603
+PageMediaBegin
+PageMediaNumber: 335
+PageMediaRotation: 0
+PageMediaRect: 0 0 418 603
+PageMediaDimensions: 418 603
+PageMediaBegin
+PageMediaNumber: 336
+PageMediaRotation: 0
+PageMediaRect: 0 0 412 603
+PageMediaDimensions: 412 603
+PageMediaBegin
+PageMediaNumber: 337
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 338
+PageMediaRotation: 0
+PageMediaRect: 0 0 404 603
+PageMediaDimensions: 404 603
+PageMediaBegin
+PageMediaNumber: 339
+PageMediaRotation: 0
+PageMediaRect: 0 0 409 603
+PageMediaDimensions: 409 603
+PageMediaBegin
+PageMediaNumber: 340
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 341
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 342
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 343
+PageMediaRotation: 0
+PageMediaRect: 0 0 415 603
+PageMediaDimensions: 415 603
+PageMediaBegin
+PageMediaNumber: 344
+PageMediaRotation: 0
+PageMediaRect: 0 0 403 603
+PageMediaDimensions: 403 603
+PageMediaBegin
+PageMediaNumber: 345
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 346
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 347
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 348
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 349
+PageMediaRotation: 0
+PageMediaRect: 0 0 411 603
+PageMediaDimensions: 411 603
+PageMediaBegin
+PageMediaNumber: 350
+PageMediaRotation: 0
+PageMediaRect: 0 0 404 603
+PageMediaDimensions: 404 603
+PageMediaBegin
+PageMediaNumber: 351
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 352
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 353
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 354
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 355
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 356
+PageMediaRotation: 0
+PageMediaRect: 0 0 402 603
+PageMediaDimensions: 402 603
+PageMediaBegin
+PageMediaNumber: 357
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 358
+PageMediaRotation: 0
+PageMediaRect: 0 0 397 603
+PageMediaDimensions: 397 603
+PageMediaBegin
+PageMediaNumber: 359
+PageMediaRotation: 0
+PageMediaRect: 0 0 410 603
+PageMediaDimensions: 410 603
+PageMediaBegin
+PageMediaNumber: 360
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 361
+PageMediaRotation: 0
+PageMediaRect: 0 0 389 603
+PageMediaDimensions: 389 603
+PageMediaBegin
+PageMediaNumber: 362
+PageMediaRotation: 0
+PageMediaRect: 0 0 416 603
+PageMediaDimensions: 416 603
+PageMediaBegin
+PageMediaNumber: 363
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 364
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 365
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 366
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 367
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 368
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 369
+PageMediaRotation: 0
+PageMediaRect: 0 0 405 603
+PageMediaDimensions: 405 603
+PageMediaBegin
+PageMediaNumber: 370
+PageMediaRotation: 0
+PageMediaRect: 0 0 399 603
+PageMediaDimensions: 399 603
+PageMediaBegin
+PageMediaNumber: 371
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 372
+PageMediaRotation: 0
+PageMediaRect: 0 0 401 603
+PageMediaDimensions: 401 603
+PageMediaBegin
+PageMediaNumber: 373
+PageMediaRotation: 0
+PageMediaRect: 0 0 407 603
+PageMediaDimensions: 407 603
+PageMediaBegin
+PageMediaNumber: 374
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 375
+PageMediaRotation: 0
+PageMediaRect: 0 0 472 603
+PageMediaDimensions: 472 603
+PageMediaBegin
+PageMediaNumber: 376
+PageMediaRotation: 0
+PageMediaRect: 0 0 383 603
+PageMediaDimensions: 383 603
+PageMediaBegin
+PageMediaNumber: 377
+PageMediaRotation: 0
+PageMediaRect: 0 0 406 603
+PageMediaDimensions: 406 603
+PageMediaBegin
+PageMediaNumber: 378
+PageMediaRotation: 0
+PageMediaRect: 0 0 398 603
+PageMediaDimensions: 398 603
+PageMediaBegin
+PageMediaNumber: 379
+PageMediaRotation: 0
+PageMediaRect: 0 0 370 604
+PageMediaDimensions: 370 604
+PageMediaBegin
+PageMediaNumber: 380
+PageMediaRotation: 0
+PageMediaRect: 0 0 436 603
+PageMediaDimensions: 436 603
+PageMediaBegin
+PageMediaNumber: 381
+PageMediaRotation: 0
+PageMediaRect: 0 0 408 603
+PageMediaDimensions: 408 603
+PageMediaBegin
+PageMediaNumber: 382
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 383
+PageMediaRotation: 0
+PageMediaRect: 0 0 413 603
+PageMediaDimensions: 413 603
+PageMediaBegin
+PageMediaNumber: 384
+PageMediaRotation: 0
+PageMediaRect: 0 0 400 603
+PageMediaDimensions: 400 603
+PageMediaBegin
+PageMediaNumber: 385
+PageMediaRotation: 0
+PageMediaRect: 0 0 450 603
+PageMediaDimensions: 450 603
