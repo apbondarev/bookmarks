@@ -55,9 +55,47 @@ BookmarkTitle: Аксиома Архимеда
 BookmarkLevel: 3
 BookmarkPageNumber: 17
 BookmarkBegin
+BookmarkTitle: Теорема I Любое подмножество натуральных чисел содержит наименьшее число
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Теорема II Любое конечное подмножество натуральных чисел содержит наибольшее число
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Теорема VII Если ak = bk, где a, b, k - целые числа (k не равно 0), то а = Ь
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Теорема VIII Множество целых чисел дискретно
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
 BookmarkTitle: Теорема 1 Об остатках
 BookmarkLevel: 3
 BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Теорема 2 Остаток от деления чисел как критерий делимости
+BookmarkLevel: 3
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Теорема 6. Транзитивность отношения делимости
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+
+BookmarkBegin
+BookmarkTitle: Теорема 7. В отношении делимости можно умножать оба числа на число
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Теорема 8. В отношении делимости можно делить оба числа на число
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Теорема 9. Отношение делимости можно умножать делимое на число
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+
 BookmarkBegin
 BookmarkTitle: 3. Последовательности. Функции
 BookmarkLevel: 2
@@ -169,6 +207,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 58
+
 BookmarkBegin
 BookmarkTitle: Глава 5. Конечные цепные дроби
 BookmarkLevel: 1
