@@ -10,21 +10,18 @@ InfoValue: D:20050118231900Z
 PdfID0: db349cab45330f49b571d1e8cd8fc191
 PdfID1: 33e085a4b25eca46871e5be2e3878c7b
 NumberOfPages: 385
-BookmarkBegin
-BookmarkTitle: 
-BookmarkLevel: 1
-BookmarkPageNumber: 0
+
 BookmarkBegin
 BookmarkTitle: Предисловие
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: Обозначения
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 6
 BookmarkBegin
 BookmarkTitle: Введение
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 8
 BookmarkBegin
 BookmarkTitle: 1. Предмет теории чисел
@@ -55,47 +52,57 @@ BookmarkTitle: Аксиома Архимеда
 BookmarkLevel: 3
 BookmarkPageNumber: 17
 BookmarkBegin
-BookmarkTitle: Теорема I Любое подмножество натуральных чисел содержит наименьшее число
+BookmarkTitle: Теорема I. Любое подмножество натуральных чисел содержит наименьшее число
 BookmarkLevel: 3
 BookmarkPageNumber: 17
 BookmarkBegin
-BookmarkTitle: Теорема II Любое конечное подмножество натуральных чисел содержит наибольшее число
+BookmarkTitle: Теорема II. Любое конечное подмножество натуральных чисел содержит наибольшее число
 BookmarkLevel: 3
 BookmarkPageNumber: 18
 BookmarkBegin
-BookmarkTitle: Теорема VII Если ak = bk, где a, b, k - целые числа (k не равно 0), то а = Ь
+BookmarkTitle: Теорема VII. Если ak = bk, где a, b, k - целые числа (k не равно 0), то а = Ь
 BookmarkLevel: 3
 BookmarkPageNumber: 19
 BookmarkBegin
-BookmarkTitle: Теорема VIII Множество целых чисел дискретно
+BookmarkTitle: Теорема VIII. Множество целых чисел дискретно
 BookmarkLevel: 3
 BookmarkPageNumber: 19
 BookmarkBegin
-BookmarkTitle: Теорема 1 Об остатках
+BookmarkTitle: Теорема 1. Об остатках
 BookmarkLevel: 3
 BookmarkPageNumber: 19
 BookmarkBegin
-BookmarkTitle: Теорема 2 Остаток от деления чисел как критерий делимости
+BookmarkTitle: Теорема 2. Остаток от деления чисел как критерий делимости
 BookmarkLevel: 3
 BookmarkPageNumber: 20
 BookmarkBegin
 BookmarkTitle: Теорема 6. Транзитивность отношения делимости
 BookmarkLevel: 3
 BookmarkPageNumber: 21
-
 BookmarkBegin
-BookmarkTitle: Теорема 7. В отношении делимости можно умножать оба числа на число
+BookmarkTitle: Теорема 7. Отношение делимости можно умножать на число
 BookmarkLevel: 3
 BookmarkPageNumber: 21
 BookmarkBegin
-BookmarkTitle: Теорема 8. В отношении делимости можно делить оба числа на число
+BookmarkTitle: Теорема 8. Отношение делимости можно делить на число
 BookmarkLevel: 3
 BookmarkPageNumber: 21
 BookmarkBegin
 BookmarkTitle: Теорема 9. Отношение делимости можно умножать делимое на число
 BookmarkLevel: 3
 BookmarkPageNumber: 21
-
+BookmarkBegin
+BookmarkTitle: Теорема 10. Делимость суммы и разности
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Теорема 12. Отношения делимости можно перемножать
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Теорема 13. Отношение делимости и возведение в степень
+BookmarkLevel: 3
+BookmarkPageNumber: 21
 BookmarkBegin
 BookmarkTitle: 3. Последовательности. Функции
 BookmarkLevel: 2
@@ -110,15 +117,15 @@ BookmarkTitle: 1. Простые и составные числа
 BookmarkLevel: 2
 BookmarkPageNumber: 29
 BookmarkBegin
-BookmarkTitle: Теорема 16 Наименьший делитель любого натурального числа простое число
+BookmarkTitle: Теорема 16. Наименьший делитель любого натурального числа простое число
 BookmarkLevel: 3
 BookmarkPageNumber: 29
 BookmarkBegin
-BookmarkTitle: Теорема 17 Любое натуральное число можно предствить в виде произведения простых чисел
+BookmarkTitle: Теорема 17. Любое натуральное число можно представить в виде произведения простых чисел
 BookmarkLevel: 3
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: Теорема 18 Представление натурального числа в виде произведения простых чисел единственно
+BookmarkTitle: Теорема 18. Представление натурального числа в виде произведения простых чисел единственно
 BookmarkLevel: 3
 BookmarkPageNumber: 30
 BookmarkBegin
@@ -139,15 +146,15 @@ BookmarkTitle: 1. Общие делители и общие кратные це�
 BookmarkLevel: 2
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: Теорема 26 У любого целого числа конечное число делителей
+BookmarkTitle: Теорема 26. У любого целого числа конечное число делителей
 BookmarkLevel: 3
 BookmarkPageNumber: 39
 BookmarkBegin
-BookmarkTitle: Теорема 27 О существовании НОД
+BookmarkTitle: Теорема 27. О существовании НОД
 BookmarkLevel: 3
 BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: Теорема 29 О сокращении НОД на множитель
+BookmarkTitle: Теорема 29. О сокращении НОД на множитель
 BookmarkLevel: 3
 BookmarkPageNumber: 41
 BookmarkBegin
@@ -155,7 +162,7 @@ BookmarkTitle: 2. Алгоритм Евклида
 BookmarkLevel: 2
 BookmarkPageNumber: 44
 BookmarkBegin
-BookmarkTitle: Теорема 36 НОД в алгоритме Евклида
+BookmarkTitle: Теорема 36. НОД в алгоритме Евклида
 BookmarkLevel: 3
 BookmarkPageNumber: 44
 BookmarkBegin
@@ -163,31 +170,31 @@ BookmarkTitle: 3. Взаимно простые числа
 BookmarkLevel: 2
 BookmarkPageNumber: 46
 BookmarkBegin
-BookmarkTitle: Теорема 38 Критерий взаимной простоты чисел и каноническое разложение на множители
+BookmarkTitle: Теорема 38. Критерий взаимной простоты чисел и каноническое разложение на множители
 BookmarkLevel: 3
 BookmarkPageNumber: 46
 BookmarkBegin
-BookmarkTitle: Теорема 39 Связь между НОД и делимостью чисел
+BookmarkTitle: Теорема 39. Связь между НОД и делимостью чисел
 BookmarkLevel: 3
 BookmarkPageNumber: 47
 BookmarkBegin
-BookmarkTitle: Теорема 41 Важная лемма
+BookmarkTitle: Теорема 41. Важная лемма
 BookmarkLevel: 3
 BookmarkPageNumber: 47
 BookmarkBegin
-BookmarkTitle: Теорема 42 Произведение чисел взаимно простых с одним и тем же числом
+BookmarkTitle: Теорема 42. Произведение чисел взаимно простых с одним и тем же числом
 BookmarkLevel: 3
 BookmarkPageNumber: 47
 BookmarkBegin
-BookmarkTitle: Теорема 43 Взаимная простота степеней
+BookmarkTitle: Теорема 43. Взаимная простота степеней
 BookmarkLevel: 3
 BookmarkPageNumber: 48
 BookmarkBegin
-BookmarkTitle: Теорема 45 Делитель произведения двух взамно простых чисел
+BookmarkTitle: Теорема 45. Делитель произведения двух взаимно простых чисел
 BookmarkLevel: 3
 BookmarkPageNumber: 48
 BookmarkBegin
-BookmarkTitle: Теорема 46 Когда произведение взамно простых чисел равно квадрату?
+BookmarkTitle: Теорема 46. Когда произведение взаимно простых чисел равно квадрату?
 BookmarkLevel: 3
 BookmarkPageNumber: 48
 
@@ -196,9 +203,25 @@ BookmarkTitle: Глава 4. Функция [x]
 BookmarkLevel: 1
 BookmarkPageNumber: 49
 BookmarkBegin
-BookmarkTitle: 1. Разложение п! на простые множители
+BookmarkTitle: 1. Разложение n! на простые множители
 BookmarkLevel: 2
 BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Теорема 49. Формула для числа натуральных чисел делящихся на d и не превосходящих данное
+BookmarkLevel: 3
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Теорема 51. Чему равно множество возможных значений для [α] - 2 [α/2]?
+BookmarkLevel: 3
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Теорема 52. Формула для показателя степени простого числа p из канонического разложения числа на множители
+BookmarkLevel: 3
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Теорема 52'. Каноническое представление n! в виде произведения простых чисел
+BookmarkLevel: 3
+BookmarkPageNumber: 52
 BookmarkBegin
 BookmarkTitle: 2. Точки с целочисленными координатами
 BookmarkLevel: 2
@@ -220,6 +243,7 @@ BookmarkBegin
 BookmarkTitle: 2. Подходящие дроби
 BookmarkLevel: 2
 BookmarkPageNumber: 62
+
 BookmarkBegin
 BookmarkTitle: Глава 6. Иррациональные числа
 BookmarkLevel: 1
@@ -233,9 +257,10 @@ BookmarkTitle: 2. Иррациональность е и π
 BookmarkLevel: 2
 BookmarkPageNumber: 70
 BookmarkBegin
-BookmarkTitle: Исторические коммеитарии
+BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 72
+
 BookmarkBegin
 BookmarkTitle: Глава 7. Сравнения
 BookmarkLevel: 1
@@ -244,6 +269,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 77
+
 BookmarkBegin
 BookmarkTitle: Глава 8. Классы
 BookmarkLevel: 1
@@ -265,17 +291,31 @@ BookmarkTitle: 1. Полная система вычетов
 BookmarkLevel: 2
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: 2. Приведенная снстема вычетов
+BookmarkTitle: 2. Приведенная система вычетов
 BookmarkLevel: 2
 BookmarkPageNumber: 90
+
 BookmarkBegin
 BookmarkTitle: Глава 10. Функция Эйлера
 BookmarkLevel: 1
 BookmarkPageNumber: 93
 BookmarkBegin
-BookmarkTitle: Исторические комментарии
+BookmarkTitle: Теорема 114. Функция Эйлера мультипликативна
 BookmarkLevel: 2
 BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Теорема 115. Функция Эйлера для степени простого числа
+BookmarkLevel: 2
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: Теорема 118. Сумма функции Эйлера по всем делителям числа
+BookmarkLevel: 2
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: Исторические комментарии
+BookmarkLevel: 2
+BookmarkPageNumber: 96
+
 BookmarkBegin
 BookmarkTitle: Глава 11. Теоремы Ферма и Эйлера
 BookmarkLevel: 1
@@ -292,6 +332,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 100
+
 BookmarkBegin
 BookmarkTitle: Глава 12. Группа классов, взаимно простых с модулем
 BookmarkLevel: 1
@@ -304,6 +345,7 @@ BookmarkBegin
 BookmarkTitle: 2. Поле классов по простому модулю
 BookmarkLevel: 2
 BookmarkPageNumber: 102
+
 BookmarkBegin
 BookmarkTitle: Глава 13. Сравнения с неизвестной величиной
 BookmarkLevel: 1
@@ -316,6 +358,7 @@ BookmarkBegin
 BookmarkTitle: 2. Системы сравнений
 BookmarkLevel: 2
 BookmarkPageNumber: 107
+
 BookmarkBegin
 BookmarkTitle: Глава 14. Сравнения 1-й степени
 BookmarkLevel: 1
@@ -336,6 +379,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 121
+
 BookmarkBegin
 BookmarkTitle: Глава 15. Сравнения по простому модулю
 BookmarkLevel: 1
@@ -345,7 +389,7 @@ BookmarkTitle: 1. Сравнение по простому модулю с од�
 BookmarkLevel: 2
 BookmarkPageNumber: 127
 BookmarkBegin
-BookmarkTitle: 2. Сравнение по простому модулю с несколькими нейзвестными
+BookmarkTitle: 2. Сравнение по простому модулю с несколькими неизвестными
 BookmarkLevel: 2
 BookmarkPageNumber: 127
 BookmarkBegin
@@ -360,6 +404,7 @@ BookmarkBegin
 BookmarkTitle: Глава 16. Сравнения по составному модулю
 BookmarkLevel: 1
 BookmarkPageNumber: 136
+
 BookmarkBegin
 BookmarkTitle: Глава 17. Степенные вычеты
 BookmarkLevel: 1
@@ -372,6 +417,7 @@ BookmarkBegin
 BookmarkTitle: 2. Число классов с заданным показателем
 BookmarkLevel: 2
 BookmarkPageNumber: 144
+
 BookmarkBegin
 BookmarkTitle: Глава 18. Первообразные корни
 BookmarkLevel: 1
@@ -384,6 +430,7 @@ BookmarkBegin
 BookmarkTitle: 2. Первообразные корни по составным модулям
 BookmarkLevel: 2
 BookmarkPageNumber: 149
+
 BookmarkBegin
 BookmarkTitle: Глава 19. Индексы
 BookmarkLevel: 1
@@ -404,6 +451,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 163
+
 BookmarkBegin
 BookmarkTitle: Глава 20. Двучленные сравнения
 BookmarkLevel: 1
@@ -424,6 +472,7 @@ BookmarkBegin
 BookmarkTitle: 4. Показательные сравнения
 BookmarkLevel: 2
 BookmarkPageNumber: 172
+
 BookmarkBegin
 BookmarkTitle: Глава 21. Сравнения 2-й степени по простому модулю
 BookmarkLevel: 1
@@ -452,6 +501,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 196
+
 BookmarkBegin
 BookmarkTitle: Глава 22. Сравнения 2-й степени по составному модулю
 BookmarkLevel: 1
@@ -464,6 +514,7 @@ BookmarkBegin
 BookmarkTitle: 2. Сравнение 2-й степени по произвольному составному модулю
 BookmarkLevel: 2
 BookmarkPageNumber: 201
+
 BookmarkBegin
 BookmarkTitle: Глава 23. Арифметические приложения теории сравнений
 BookmarkLevel: 1
@@ -480,6 +531,7 @@ BookmarkBegin
 BookmarkTitle: 3. Длина периода десятичной дроби
 BookmarkLevel: 2
 BookmarkPageNumber: 207
+
 BookmarkBegin
 BookmarkTitle: Глава 24. Бесконечные цепные дроби
 BookmarkLevel: 1
@@ -500,6 +552,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 224
+
 BookmarkBegin
 BookmarkTitle: Глава 25. Приближение действительных чисел рациональными дробями
 BookmarkLevel: 1
@@ -520,6 +573,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 237
+
 BookmarkBegin
 BookmarkTitle: Глава 26. Наилучшие приближения
 BookmarkLevel: 1
@@ -529,9 +583,10 @@ BookmarkTitle: 1. Отыскание наилучших приближений �
 BookmarkLevel: 2
 BookmarkPageNumber: 238
 BookmarkBegin
-BookmarkTitle: 2. Множество всех наилучших приблнжений к заданному действительному числу
+BookmarkTitle: 2. Множество всех наилучших приближений к заданному действительному числу
 BookmarkLevel: 2
 BookmarkPageNumber: 241
+
 BookmarkBegin
 BookmarkTitle: Глава 27. Последовательности Фарея
 BookmarkLevel: 1
@@ -541,9 +596,30 @@ BookmarkTitle: 1. Фареевы дроби
 BookmarkLevel: 2
 BookmarkPageNumber: 244
 BookmarkBegin
-BookmarkTitle: 2. Приближение действительных чисел фареевымн дробями
+BookmarkTitle: Теорема 253. Алгоритм построения для каждой дроби следующей за ней
+BookmarkLevel: 3
+BookmarkPageNumber: 245
+BookmarkBegin
+BookmarkTitle: Теорема 254. Соотношения для соседних дробей
+BookmarkLevel: 3
+BookmarkPageNumber: 245
+BookmarkBegin
+BookmarkTitle: Теорема 255. Медианта двух дробей
+BookmarkLevel: 3
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 2. Приближение действительных чисел фареевыми дробями
 BookmarkLevel: 2
 BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: Теорема 257. Верхняя оценка погрешности приближения действительного числа двумя соседними дробями в Φ_n
+BookmarkLevel: 3
+BookmarkPageNumber: 247
+BookmarkBegin
+BookmarkTitle: Теорема 258. Одна из двух соседних дробей в Φ_n является наилучшим приближением действительных чисел
+BookmarkLevel: 3
+BookmarkPageNumber: 248
+
 BookmarkBegin
 BookmarkTitle: Глава 28. Квадратические иррациональности и периодические цепные дроби
 BookmarkLevel: 1
@@ -560,6 +636,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 259
+
 BookmarkBegin
 BookmarkTitle: Глава 29. Алгебраические числа
 BookmarkLevel: 1
@@ -572,6 +649,7 @@ BookmarkBegin
 BookmarkTitle: 2. Рациональные приближения алгебраических чисел
 BookmarkLevel: 2
 BookmarkPageNumber: 265
+
 BookmarkBegin
 BookmarkTitle: Глава 30. Трансцендентные числа
 BookmarkLevel: 1
@@ -588,12 +666,13 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 278
+
 BookmarkBegin
 BookmarkTitle: Глава 31. Представление чисел квадратичными формами
 BookmarkLevel: 1
 BookmarkPageNumber: 279
 BookmarkBegin
-BookmarkTitle: 1. Общие свойства бинарных квадратнчных форм
+BookmarkTitle: 1. Общие свойства бинарных квадратичных форм
 BookmarkLevel: 2
 BookmarkPageNumber: 279
 BookmarkBegin
@@ -604,6 +683,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 296
+
 BookmarkBegin
 BookmarkTitle: Глава 32. Некоторые диофантовы уравнения
 BookmarkLevel: 1
@@ -613,7 +693,7 @@ BookmarkTitle: 1. Представление чисел в виде суммы �
 BookmarkLevel: 2
 BookmarkPageNumber: 297
 BookmarkBegin
-BookmarkTitle: 2. Представление натуральных чисел в виде суммы четырех квадрaтов
+BookmarkTitle: 2. Представление натуральных чисел в виде суммы четырех квадратов
 BookmarkLevel: 2
 BookmarkPageNumber: 300
 BookmarkBegin
@@ -632,6 +712,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 312
+
 BookmarkBegin
 BookmarkTitle: Глава 33. Числовые функции
 BookmarkLevel: 1
@@ -641,9 +722,29 @@ BookmarkTitle: 1. Число и сумма делителей
 BookmarkLevel: 2
 BookmarkPageNumber: 316
 BookmarkBegin
+BookmarkTitle: Теорема 312. Формула для вычисления числа делителей
+BookmarkLevel: 3
+BookmarkPageNumber: 317
+BookmarkBegin
+BookmarkTitle: Теорема 313. Формула для вычисления суммы делителей
+BookmarkLevel: 3
+BookmarkPageNumber: 317
+BookmarkBegin
+BookmarkTitle: Теорема 314. Функции τ(n) и σ(n) мультипликативные
+BookmarkLevel: 3
+BookmarkPageNumber: 318
+BookmarkBegin
 BookmarkTitle: 2. Функция Мёбиуса
 BookmarkLevel: 2
 BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: Теорема 316. Сумма функции Мёбиуса по всем делителям
+BookmarkLevel: 3
+BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: Теорема 317. Обращение формулы суммирования по всем делителям
+BookmarkLevel: 3
+BookmarkPageNumber: 321
 BookmarkBegin
 BookmarkTitle: 3. Дзета-функция Римана
 BookmarkLevel: 2
@@ -652,6 +753,7 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 323
+
 BookmarkBegin
 BookmarkTitle: Глава 34. Средние значения числовых функций
 BookmarkLevel: 1
@@ -712,14 +814,19 @@ BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 369
+
 BookmarkBegin
 BookmarkTitle: Таблицы индексов
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 373
 BookmarkBegin
 BookmarkTitle: Таблица простых чисел
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 380
+BookmarkBegin
+BookmarkTitle: Оглавление
+BookmarkLevel: 1
+BookmarkPageNumber: 382
 
 PageMediaBegin
 PageMediaNumber: 1
