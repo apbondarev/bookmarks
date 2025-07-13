@@ -1,0 +1,670 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20200222155852
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20200222155852
+InfoBegin
+InfoKey: Producer
+InfoValue: libtiff / tiff2pdf - 20171118
+PdfID0: 67c6697351ff4aec29cdbaabf2fbe346
+PdfID1: 67c6697351ff4aec29cdbaabf2fbe346
+NumberOfPages: 114
+BookmarkBegin
+BookmarkTitle: Предисловие к четвертому изданию
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Из предисловия к третьему изданию
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Из предисловия к первому изданию
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Глава I СВОЙСТВА АППАРАТА
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: 2. Подходящие дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: 3. Бесконечные цепные дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 4. Цепные дроби с натуральными элементами
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Глава II ИЗОБРАЖЕНИЕ ЧИСЕЛ ЦЕПНЫМИ ДРОБЯМИ
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 5. Цепные дроби как аппарат для представления вещественных чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 6. Подходящие дроби в качестве наилучших приближений
+BookmarkLevel: 2
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: 7. Порядок приближения
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: 8. Общие законы аппроксимации
+BookmarkLevel: 2
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: 9. Аппроксимация алгебраических иррациональностей. Трансцендентные числа Лиувилля
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: 10. Квадратические иррациональности и периодические цепные дроби
+BookmarkLevel: 2
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Глава III МЕТРИЧЕСКАЯ ТЕОРИЯ ЦЕПНЫХ ДРОБЕЙ
+BookmarkLevel: 1
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: 11. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: 12. Элементы как функции изображаемого числа
+BookmarkLevel: 2
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: 13. Метрическая оценка роста элементов
+BookmarkLevel: 2
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: 14. Метрическая оценка роста знаменателей подходящих дробей. Основная теорема метрической теории аппроксимации
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 15. Проблема Гаусса и теорема Кузьмина
+BookmarkLevel: 2
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: 16. Средние значения
+BookmarkLevel: 2
+BookmarkPageNumber: 105
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 541.44 811.44
+PageMediaDimensions: 541.44 811.44
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.72 533.88
+PageMediaDimensions: 333.72 533.88
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 340.56 529.56
+PageMediaDimensions: 340.56 529.56
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.08 532.2
+PageMediaDimensions: 331.08 532.2
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.84 529.2
+PageMediaDimensions: 339.84 529.2
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.72 533.88
+PageMediaDimensions: 333.72 533.88
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 341.76 530.4
+PageMediaDimensions: 341.76 530.4
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.12 533.52
+PageMediaDimensions: 333.12 533.52
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.2 527.52
+PageMediaDimensions: 337.2 527.52
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.92 532.8
+PageMediaDimensions: 331.92 532.8
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.88 528.6
+PageMediaDimensions: 338.88 528.6
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.68 532.56
+PageMediaDimensions: 331.68 532.56
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.36 526.92
+PageMediaDimensions: 336.36 526.92
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.24 533.52
+PageMediaDimensions: 333.24 533.52
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.36 526.92
+PageMediaDimensions: 336.36 526.92
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.24 531.72
+PageMediaDimensions: 330.24 531.72
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.04 526.08
+PageMediaDimensions: 335.04 526.08
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.6 530.04
+PageMediaDimensions: 327.6 530.04
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.8 525.96
+PageMediaDimensions: 334.8 525.96
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.08 530.4
+PageMediaDimensions: 328.08 530.4
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.56 525.84
+PageMediaDimensions: 334.56 525.84
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.12 531.6
+PageMediaDimensions: 330.12 531.6
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 336 526.8
+PageMediaDimensions: 336 526.8
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.04 531
+PageMediaDimensions: 329.04 531
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 341.88 530.52
+PageMediaDimensions: 341.88 530.52
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.24 531.72
+PageMediaDimensions: 330.24 531.72
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.52 528.36
+PageMediaDimensions: 338.52 528.36
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.32 534.24
+PageMediaDimensions: 334.32 534.24
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.68 525.84
+PageMediaDimensions: 334.68 525.84
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.36 533.64
+PageMediaDimensions: 333.36 533.64
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 339 528.6
+PageMediaDimensions: 339 528.6
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.24 531.72
+PageMediaDimensions: 330.24 531.72
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.72 529.08
+PageMediaDimensions: 339.72 529.08
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.08 534.12
+PageMediaDimensions: 334.08 534.12
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.96 529.32
+PageMediaDimensions: 339.96 529.32
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.28 531.12
+PageMediaDimensions: 329.28 531.12
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.96 529.32
+PageMediaDimensions: 339.96 529.32
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 332.28 533.04
+PageMediaDimensions: 332.28 533.04
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.96 529.32
+PageMediaDimensions: 339.96 529.32
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.2 530.4
+PageMediaDimensions: 328.2 530.4
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.28 528.12
+PageMediaDimensions: 338.28 528.12
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.2 534.24
+PageMediaDimensions: 334.2 534.24
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.32 527.52
+PageMediaDimensions: 337.32 527.52
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.24 531.72
+PageMediaDimensions: 330.24 531.72
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.76 526.56
+PageMediaDimensions: 335.76 526.56
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.84 530.16
+PageMediaDimensions: 327.84 530.16
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.52 526.44
+PageMediaDimensions: 335.52 526.44
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.92 530.88
+PageMediaDimensions: 328.92 530.88
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.72 527.16
+PageMediaDimensions: 336.72 527.16
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.4 531.12
+PageMediaDimensions: 329.4 531.12
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.96 527.28
+PageMediaDimensions: 336.96 527.28
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.44 532.44
+PageMediaDimensions: 331.44 532.44
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.44 525.72
+PageMediaDimensions: 334.44 525.72
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.44 530.64
+PageMediaDimensions: 328.44 530.64
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.92 526.08
+PageMediaDimensions: 334.92 526.08
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.24 531.72
+PageMediaDimensions: 330.24 531.72
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 340.92 529.92
+PageMediaDimensions: 340.92 529.92
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.36 531.84
+PageMediaDimensions: 330.36 531.84
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.52 526.44
+PageMediaDimensions: 335.52 526.44
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.4 531.12
+PageMediaDimensions: 329.4 531.12
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.92 528
+PageMediaDimensions: 337.92 528
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.88 535.2
+PageMediaDimensions: 335.88 535.2
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.08 527.4
+PageMediaDimensions: 337.08 527.4
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.4 531.12
+PageMediaDimensions: 329.4 531.12
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.36 526.92
+PageMediaDimensions: 336.36 526.92
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.52 531.24
+PageMediaDimensions: 329.52 531.24
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.28 528.12
+PageMediaDimensions: 338.28 528.12
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.8 530.88
+PageMediaDimensions: 328.8 530.88
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.88 526.68
+PageMediaDimensions: 335.88 526.68
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.72 533.88
+PageMediaDimensions: 333.72 533.88
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.4 528.24
+PageMediaDimensions: 338.4 528.24
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.36 529.92
+PageMediaDimensions: 327.36 529.92
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.32 525.6
+PageMediaDimensions: 334.32 525.6
+PageMediaBegin
+PageMediaNumber: 74
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.32 532.32
+PageMediaDimensions: 331.32 532.32
+PageMediaBegin
+PageMediaNumber: 75
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.88 526.68
+PageMediaDimensions: 335.88 526.68
+PageMediaBegin
+PageMediaNumber: 76
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.2 532.32
+PageMediaDimensions: 331.2 532.32
+PageMediaBegin
+PageMediaNumber: 77
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.4 526.32
+PageMediaDimensions: 335.4 526.32
+PageMediaBegin
+PageMediaNumber: 78
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.76 531.36
+PageMediaDimensions: 329.76 531.36
+PageMediaBegin
+PageMediaNumber: 79
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.92 526.08
+PageMediaDimensions: 334.92 526.08
+PageMediaBegin
+PageMediaNumber: 80
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.72 530.16
+PageMediaDimensions: 327.72 530.16
+PageMediaBegin
+PageMediaNumber: 81
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.92 526.08
+PageMediaDimensions: 334.92 526.08
+PageMediaBegin
+PageMediaNumber: 82
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.08 532.2
+PageMediaDimensions: 331.08 532.2
+PageMediaBegin
+PageMediaNumber: 83
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.44 527.64
+PageMediaDimensions: 337.44 527.64
+PageMediaBegin
+PageMediaNumber: 84
+PageMediaRotation: 0
+PageMediaRect: 0 0 331.68 532.56
+PageMediaDimensions: 331.68 532.56
+PageMediaBegin
+PageMediaNumber: 85
+PageMediaRotation: 0
+PageMediaRect: 0 0 337.92 528
+PageMediaDimensions: 337.92 528
+PageMediaBegin
+PageMediaNumber: 86
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.72 530.16
+PageMediaDimensions: 327.72 530.16
+PageMediaBegin
+PageMediaNumber: 87
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.96 527.28
+PageMediaDimensions: 336.96 527.28
+PageMediaBegin
+PageMediaNumber: 88
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.84 534
+PageMediaDimensions: 333.84 534
+PageMediaBegin
+PageMediaNumber: 89
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.88 526.68
+PageMediaDimensions: 335.88 526.68
+PageMediaBegin
+PageMediaNumber: 90
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.72 533.88
+PageMediaDimensions: 333.72 533.88
+PageMediaBegin
+PageMediaNumber: 91
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.28 526.32
+PageMediaDimensions: 335.28 526.32
+PageMediaBegin
+PageMediaNumber: 92
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.2 534.24
+PageMediaDimensions: 334.2 534.24
+PageMediaBegin
+PageMediaNumber: 93
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.72 527.16
+PageMediaDimensions: 336.72 527.16
+PageMediaBegin
+PageMediaNumber: 94
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.6 531.96
+PageMediaDimensions: 330.6 531.96
+PageMediaBegin
+PageMediaNumber: 95
+PageMediaRotation: 0
+PageMediaRect: 0 0 341.4 530.16
+PageMediaDimensions: 341.4 530.16
+PageMediaBegin
+PageMediaNumber: 96
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.52 534.96
+PageMediaDimensions: 335.52 534.96
+PageMediaBegin
+PageMediaNumber: 97
+PageMediaRotation: 0
+PageMediaRect: 0 0 345.36 532.8
+PageMediaDimensions: 345.36 532.8
+PageMediaBegin
+PageMediaNumber: 98
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.64 531.36
+PageMediaDimensions: 329.64 531.36
+PageMediaBegin
+PageMediaNumber: 99
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.28 528.12
+PageMediaDimensions: 338.28 528.12
+PageMediaBegin
+PageMediaNumber: 100
+PageMediaRotation: 0
+PageMediaRect: 0 0 330.6 531.96
+PageMediaDimensions: 330.6 531.96
+PageMediaBegin
+PageMediaNumber: 101
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.32 525.6
+PageMediaDimensions: 334.32 525.6
+PageMediaBegin
+PageMediaNumber: 102
+PageMediaRotation: 0
+PageMediaRect: 0 0 335.88 535.2
+PageMediaDimensions: 335.88 535.2
+PageMediaBegin
+PageMediaNumber: 103
+PageMediaRotation: 0
+PageMediaRect: 0 0 345.84 533.16
+PageMediaDimensions: 345.84 533.16
+PageMediaBegin
+PageMediaNumber: 104
+PageMediaRotation: 0
+PageMediaRect: 0 0 338.76 537.12
+PageMediaDimensions: 338.76 537.12
+PageMediaBegin
+PageMediaNumber: 105
+PageMediaRotation: 0
+PageMediaRect: 0 0 341.88 530.52
+PageMediaDimensions: 341.88 530.52
+PageMediaBegin
+PageMediaNumber: 106
+PageMediaRotation: 0
+PageMediaRect: 0 0 333.24 533.52
+PageMediaDimensions: 333.24 533.52
+PageMediaBegin
+PageMediaNumber: 107
+PageMediaRotation: 0
+PageMediaRect: 0 0 334.8 525.96
+PageMediaDimensions: 334.8 525.96
+PageMediaBegin
+PageMediaNumber: 108
+PageMediaRotation: 0
+PageMediaRect: 0 0 329.64 531.36
+PageMediaDimensions: 329.64 531.36
+PageMediaBegin
+PageMediaNumber: 109
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.36 526.92
+PageMediaDimensions: 336.36 526.92
+PageMediaBegin
+PageMediaNumber: 110
+PageMediaRotation: 0
+PageMediaRect: 0 0 328.56 530.64
+PageMediaDimensions: 328.56 530.64
+PageMediaBegin
+PageMediaNumber: 111
+PageMediaRotation: 0
+PageMediaRect: 0 0 336.36 526.92
+PageMediaDimensions: 336.36 526.92
+PageMediaBegin
+PageMediaNumber: 112
+PageMediaRotation: 0
+PageMediaRect: 0 0 327.6 530.04
+PageMediaDimensions: 327.6 530.04
+PageMediaBegin
+PageMediaNumber: 113
+PageMediaRotation: 0
+PageMediaRect: 0 0 339.36 528.84
+PageMediaDimensions: 339.36 528.84
+PageMediaBegin
+PageMediaNumber: 114
+PageMediaRotation: 0
+PageMediaRect: 0 0 529.92 803.52
+PageMediaDimensions: 529.92 803.52
