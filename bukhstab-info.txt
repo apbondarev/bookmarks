@@ -266,6 +266,14 @@ BookmarkTitle: Глава 7. Сравнения
 BookmarkLevel: 1
 BookmarkPageNumber: 73
 BookmarkBegin
+BookmarkTitle: Теорема 75. Два эквивалентных определения сравнения по модулю
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Теорема 76,77,78. Отношение сравнения по модулю рефлективно, симметрично и транзитивно
+BookmarkLevel: 3
+BookmarkPageNumber: 74
+BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 77
