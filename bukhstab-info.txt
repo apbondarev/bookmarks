@@ -267,11 +267,11 @@ BookmarkLevel: 1
 BookmarkPageNumber: 73
 BookmarkBegin
 BookmarkTitle: Теорема 75. Два эквивалентных определения сравнения по модулю
-BookmarkLevel: 3
+BookmarkLevel: 2
 BookmarkPageNumber: 73
 BookmarkBegin
-BookmarkTitle: Теорема 76,77,78. Отношение сравнения по модулю рефлективно, симметрично и транзитивно
-BookmarkLevel: 3
+BookmarkTitle: Теоремы 76,77,78. Отношение сравнения по модулю рефлективно, симметрично и транзитивно
+BookmarkLevel: 2
 BookmarkPageNumber: 74
 BookmarkBegin
 BookmarkTitle: Исторические комментарии
@@ -572,6 +572,10 @@ BookmarkPageNumber: 225
 BookmarkBegin
 BookmarkTitle: 2. Приближение действительных чисел рациональными дробями с заданным ограничением для знаменателей
 BookmarkLevel: 2
+BookmarkPageNumber: 231
+BookmarkBegin
+BookmarkTitle: Теорема 246. Дирихле
+BookmarkLevel: 3
 BookmarkPageNumber: 231
 BookmarkBegin
 BookmarkTitle: 3. Приближение действительных чисел бесконечной последовательностью рациональных чисел
