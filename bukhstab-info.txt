@@ -2761,3 +2761,13 @@ PageMediaNumber: 385
 PageMediaRotation: 0
 PageMediaRect: 0 0 450 603
 PageMediaDimensions: 450 603
+
+PageLabelBegin
+PageLabelNewIndex: 1
+PageLabelStart: 1
+PageLabelPrefix: cover
+PageLabelNumStyle: NoNumber
+PageLabelBegin
+PageLabelNewIndex: 2
+PageLabelStart: 1
+PageLabelNumStyle: DecimalArabicNumerals
