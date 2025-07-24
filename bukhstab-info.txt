@@ -303,8 +303,16 @@ BookmarkTitle: 1. Полная система вычетов
 BookmarkLevel: 2
 BookmarkPageNumber: 86
 BookmarkBegin
+BookmarkTitle: Теорема 107. Как из полной системы вычетов с помощью линейного преобразования получить другую полную систему вычетов
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
 BookmarkTitle: 2. Приведенная система вычетов
 BookmarkLevel: 2
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Теорема 109. Размер приведенной системы вычетов равен ф(m)
+BookmarkLevel: 3
 BookmarkPageNumber: 90
 
 BookmarkBegin
