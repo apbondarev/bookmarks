@@ -274,6 +274,10 @@ BookmarkTitle: Теоремы 76,77,78. Отношение сравнения п
 BookmarkLevel: 2
 BookmarkPageNumber: 74
 BookmarkBegin
+BookmarkTitle: Теоремы 90. Если числа a и b сравнимы по модулю m, то множество общих делителей D(a,m) совпадает с множеством общих делителей D(b,m)
+BookmarkLevel: 2
+BookmarkPageNumber: 77
+BookmarkBegin
 BookmarkTitle: Исторические комментарии
 BookmarkLevel: 2
 BookmarkPageNumber: 77
