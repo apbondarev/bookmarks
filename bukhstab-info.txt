@@ -327,6 +327,10 @@ BookmarkBegin
 BookmarkTitle: Теорема 109. Размер приведенной системы вычетов равен ф(m)
 BookmarkLevel: 3
 BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Определение 35. Функция Эйлера
+BookmarkLevel: 3
+BookmarkPageNumber: 90
 
 BookmarkBegin
 BookmarkTitle: Глава 10. Функция Эйлера
