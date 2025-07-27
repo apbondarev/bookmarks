@@ -274,6 +274,10 @@ BookmarkTitle: Теоремы 76,77,78. Отношение сравнения п
 BookmarkLevel: 2
 BookmarkPageNumber: 74
 BookmarkBegin
+BookmarkTitle: Теоремы 80. Сравнение по модулю можно сокращать на число k если (k,m)=1 
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
 BookmarkTitle: Теоремы 90. Если числа a и b сравнимы по модулю m, то множество общих делителей D(a,m) совпадает с множеством общих делителей D(b,m)
 BookmarkLevel: 2
 BookmarkPageNumber: 77
@@ -290,6 +294,14 @@ BookmarkBegin
 BookmarkTitle: 1. Распределение чисел в классах по заданному модулю
 BookmarkLevel: 2
 BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Определение 24. Класс по модулю m
+BookmarkLevel: 3
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Определение 25. Вычет класса
+BookmarkLevel: 3
+BookmarkPageNumber: 80
 BookmarkBegin
 BookmarkTitle: 2. Кольцо классов
 BookmarkLevel: 2
