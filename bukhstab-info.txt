@@ -294,6 +294,7 @@ BookmarkBegin
 BookmarkTitle: 2. Кольцо классов
 BookmarkLevel: 2
 BookmarkPageNumber: 81
+
 BookmarkBegin
 BookmarkTitle: Глава 9. Полная и приведенная системы вычетов
 BookmarkLevel: 1
@@ -303,7 +304,7 @@ BookmarkTitle: 1. Полная система вычетов
 BookmarkLevel: 2
 BookmarkPageNumber: 86
 BookmarkBegin
-BookmarkTitle: Теорема 107. Как из полной системы вычетов с помощью линейного преобразования получить другую полную систему вычетов
+BookmarkTitle: Теорема 107. Линейное преобразование полной системы вычетов
 BookmarkLevel: 3
 BookmarkPageNumber: 88
 BookmarkBegin
