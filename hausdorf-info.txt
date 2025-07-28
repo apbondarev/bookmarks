@@ -1,0 +1,1761 @@
+InfoBegin
+InfoKey: Producer
+InfoValue: PDFlib+PDI 7.0.2 (Win32)
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20110430044217+04'00'
+PdfID0: f629cdb79b1ae1dfabe0b10038057141
+PdfID1: f629cdb79b1ae1dfabe0b10038057141
+NumberOfPages: 305
+
+BookmarkBegin
+BookmarkTitle: Предисловие к русскому изданию
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Предисловие автора
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Предварительные замечания
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Глава I. Множества и действия над ними
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 1. Множества
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: 2. Функции
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: 3. Сумма и пересечение
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: 4. Произведение и степень
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Глава II. Кардинальные числа
+BookmarkLevel: 1
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 5. Сравнение множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 6. Сумма, произведение, степень
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 7. Скала мощностей
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: 8. Элементарные мощности
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Глава III. Порядковые типы
+BookmarkLevel: 1
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 9. Упорядоченность
+BookmarkLevel: 2
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 10. Сумма и произведение
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 11. Типы мощностей ℵ_{0} и ℵ
+BookmarkLevel: 2
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Глава IV. Порядковые числа
+BookmarkLevel: 2
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 12. Теорема Zermelo
+BookmarkLevel: 2
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: 13. Сравнимость порядковых чисел
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: 14. Действия с порядковыми числами
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: 15. Алефы
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: 16. Общее определение произведения
+BookmarkLevel: 2
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Глава V. Системы множеств
+BookmarkLevel: 1
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 17. Кольца и тела
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: 18. Борелевские системы
+BookmarkLevel: 2
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 19. Операции наа множествами
+BookmarkLevel: 2
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: 20. Суслинские множества
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: Глава VI. Топологические пространства
+BookmarkLevel: 1
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 21. Общие топологические пространства
+BookmarkLevel: 2
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: 22. Топологические пространства
+BookmarkLevel: 2
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 23. Множества в топологических пространствах
+BookmarkLevel: 2
+BookmarkPageNumber: 114
+BookmarkBegin
+BookmarkTitle: 24. Отображения топологических пространств
+BookmarkLevel: 2
+BookmarkPageNumber: 120
+BookmarkBegin
+BookmarkTitle: 25. Аксиомы отделимости
+BookmarkLevel: 2
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 26. Пространства со счетной базой
+BookmarkLevel: 2
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 27. Компактные и бикомпактные пространства
+BookmarkLevel: 2
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: Глава VII. Метрические пространства
+BookmarkLevel: 1
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: 28. Полные пространства
+BookmarkLevel: 2
+BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: 29. Пространство множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: 30. Связность в метрических пространствах
+BookmarkLevel: 2
+BookmarkPageNumber: 169
+BookmarkBegin
+BookmarkTitle: 31. Жордановы континуумы
+BookmarkLevel: 2
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Глава VIII. Дескриптивная теория множеств
+BookmarkLevel: 1
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 32. Борелевские и суслинские множества пространства
+BookmarkLevel: 2
+BookmarkPageNumber: 192
+BookmarkBegin
+BookmarkTitle: 33. Доказательства существования
+BookmarkLevel: 2
+BookmarkPageNumber: 197
+BookmarkBegin
+BookmarkTitle: 34. Критерии для борелевских множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 35. Непрерывные образы борелевских и суслинских множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 209
+BookmarkBegin
+BookmarkTitle: 36. Топологическая инвариантность классов множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: Глава IX. Действительные функции
+BookmarkLevel: 1
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 37. Функции и их лебеговские множества
+BookmarkLevel: 2
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: 38. Функции первого класса
+BookmarkLevel: 2
+BookmarkPageNumber: 236
+BookmarkBegin
+BookmarkTitle: 39. Бэровские функции
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 40. Множества сходимости
+BookmarkLevel: 2
+BookmarkPageNumber: 259
+BookmarkBegin
+BookmarkTitle: Добавление к теории линейных метрических пространств
+BookmarkLevel: 1
+BookmarkPageNumber: 266
+BookmarkBegin
+BookmarkTitle: Указатель литературы
+BookmarkLevel: 1
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: Предметный и именной указатель
+BookmarkLevel: 1
+BookmarkPageNumber: 296
+BookmarkBegin
+BookmarkTitle: Оглавление
+BookmarkLevel: 1
+BookmarkPageNumber: 303
+
+
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 754.44
+PageMediaDimensions: 480 754.44
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 822.96
+PageMediaDimensions: 480 822.96
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 743.88
+PageMediaDimensions: 480 743.88
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 754.44
+PageMediaDimensions: 480 754.44
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 747.6
+PageMediaDimensions: 480 747.6
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 750.72
+PageMediaDimensions: 480 750.72
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 749.52
+PageMediaDimensions: 480 749.52
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 748.92
+PageMediaDimensions: 480 748.92
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 739.8
+PageMediaDimensions: 480 739.8
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 760.68
+PageMediaDimensions: 480 760.68
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.52
+PageMediaDimensions: 480 764.52
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.56
+PageMediaDimensions: 480 775.56
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 742.56
+PageMediaDimensions: 480 742.56
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 751.44
+PageMediaDimensions: 480 751.44
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 738.6
+PageMediaDimensions: 480 738.6
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 767.76
+PageMediaDimensions: 480 767.76
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 763.68
+PageMediaDimensions: 480 763.68
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 750.6
+PageMediaDimensions: 480 750.6
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.04
+PageMediaDimensions: 480 770.04
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 794.16
+PageMediaDimensions: 480 794.16
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.8
+PageMediaDimensions: 480 775.8
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.52
+PageMediaDimensions: 480 791.52
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 753.96
+PageMediaDimensions: 480 753.96
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.16
+PageMediaDimensions: 480 785.16
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.56
+PageMediaDimensions: 480 787.56
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.56
+PageMediaDimensions: 480 772.56
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.44
+PageMediaDimensions: 480 766.44
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 800.4
+PageMediaDimensions: 480 800.4
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 762.48
+PageMediaDimensions: 480 762.48
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 795.72
+PageMediaDimensions: 480 795.72
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 758.04
+PageMediaDimensions: 480 758.04
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.88
+PageMediaDimensions: 480 782.88
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.84
+PageMediaDimensions: 480 774.84
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.88
+PageMediaDimensions: 480 776.88
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.32
+PageMediaDimensions: 480 769.32
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.88
+PageMediaDimensions: 480 776.88
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.76
+PageMediaDimensions: 480 776.76
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 751.2
+PageMediaDimensions: 480 751.2
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 763.56
+PageMediaDimensions: 480 763.56
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 756.24
+PageMediaDimensions: 480 756.24
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.12
+PageMediaDimensions: 480 774.12
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.24
+PageMediaDimensions: 480 765.24
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.12
+PageMediaDimensions: 480 774.12
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.16
+PageMediaDimensions: 480 761.16
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 754.56
+PageMediaDimensions: 480 754.56
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 745.56
+PageMediaDimensions: 480 745.56
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 763.92
+PageMediaDimensions: 480 763.92
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 750.72
+PageMediaDimensions: 480 750.72
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 778.92
+PageMediaDimensions: 480 778.92
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.76
+PageMediaDimensions: 480 761.76
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 753.96
+PageMediaDimensions: 480 753.96
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.28
+PageMediaDimensions: 480 764.28
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 763.92
+PageMediaDimensions: 480 763.92
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 759.48
+PageMediaDimensions: 480 759.48
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 755.88
+PageMediaDimensions: 480 755.88
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 758.76
+PageMediaDimensions: 480 758.76
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.28
+PageMediaDimensions: 480 764.28
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.76
+PageMediaDimensions: 480 761.76
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 790.8
+PageMediaDimensions: 480 790.8
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 751.32
+PageMediaDimensions: 480 751.32
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.96
+PageMediaDimensions: 480 780.96
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.6
+PageMediaDimensions: 480 771.6
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.56
+PageMediaDimensions: 480 766.56
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 767.52
+PageMediaDimensions: 480 767.52
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.24
+PageMediaDimensions: 480 777.24
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 741.72
+PageMediaDimensions: 480 741.72
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 792.36
+PageMediaDimensions: 480 792.36
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.84
+PageMediaDimensions: 480 774.84
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 752.88
+PageMediaDimensions: 480 752.88
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.68
+PageMediaDimensions: 480 769.68
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 754.92
+PageMediaDimensions: 480 754.92
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.72
+PageMediaDimensions: 480 780.72
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.28
+PageMediaDimensions: 480 779.28
+PageMediaBegin
+PageMediaNumber: 74
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 794.04
+PageMediaDimensions: 480 794.04
+PageMediaBegin
+PageMediaNumber: 75
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 824.64
+PageMediaDimensions: 480 824.64
+PageMediaBegin
+PageMediaNumber: 76
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.24
+PageMediaDimensions: 480 777.24
+PageMediaBegin
+PageMediaNumber: 77
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.64
+PageMediaDimensions: 480 776.64
+PageMediaBegin
+PageMediaNumber: 78
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.2
+PageMediaDimensions: 480 781.2
+PageMediaBegin
+PageMediaNumber: 79
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.2
+PageMediaDimensions: 480 787.2
+PageMediaBegin
+PageMediaNumber: 80
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.2
+PageMediaDimensions: 480 787.2
+PageMediaBegin
+PageMediaNumber: 81
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 789.84
+PageMediaDimensions: 480 789.84
+PageMediaBegin
+PageMediaNumber: 82
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 796.2
+PageMediaDimensions: 480 796.2
+PageMediaBegin
+PageMediaNumber: 83
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.2
+PageMediaDimensions: 480 787.2
+PageMediaBegin
+PageMediaNumber: 84
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.24
+PageMediaDimensions: 480 765.24
+PageMediaBegin
+PageMediaNumber: 85
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.32
+PageMediaDimensions: 480 781.32
+PageMediaBegin
+PageMediaNumber: 86
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 767.16
+PageMediaDimensions: 480 767.16
+PageMediaBegin
+PageMediaNumber: 87
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.08
+PageMediaDimensions: 480 769.08
+PageMediaBegin
+PageMediaNumber: 88
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 784.32
+PageMediaDimensions: 480 784.32
+PageMediaBegin
+PageMediaNumber: 89
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.92
+PageMediaDimensions: 480 787.92
+PageMediaBegin
+PageMediaNumber: 90
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 784.2
+PageMediaDimensions: 480 784.2
+PageMediaBegin
+PageMediaNumber: 91
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.04
+PageMediaDimensions: 480 791.04
+PageMediaBegin
+PageMediaNumber: 92
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.2
+PageMediaDimensions: 480 772.2
+PageMediaBegin
+PageMediaNumber: 93
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 802.08
+PageMediaDimensions: 480 802.08
+PageMediaBegin
+PageMediaNumber: 94
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.76
+PageMediaDimensions: 480 773.76
+PageMediaBegin
+PageMediaNumber: 95
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.28
+PageMediaDimensions: 480 785.28
+PageMediaBegin
+PageMediaNumber: 96
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.48
+PageMediaDimensions: 480 774.48
+PageMediaBegin
+PageMediaNumber: 97
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.04
+PageMediaDimensions: 480 782.04
+PageMediaBegin
+PageMediaNumber: 98
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.24
+PageMediaDimensions: 480 768.24
+PageMediaBegin
+PageMediaNumber: 99
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783.84
+PageMediaDimensions: 480 783.84
+PageMediaBegin
+PageMediaNumber: 100
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.44
+PageMediaDimensions: 480 766.44
+PageMediaBegin
+PageMediaNumber: 101
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 788.52
+PageMediaDimensions: 480 788.52
+PageMediaBegin
+PageMediaNumber: 102
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.76
+PageMediaDimensions: 480 773.76
+PageMediaBegin
+PageMediaNumber: 103
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 789.24
+PageMediaDimensions: 480 789.24
+PageMediaBegin
+PageMediaNumber: 104
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.48
+PageMediaDimensions: 480 771.48
+PageMediaBegin
+PageMediaNumber: 105
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 784.56
+PageMediaDimensions: 480 784.56
+PageMediaBegin
+PageMediaNumber: 106
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.48
+PageMediaDimensions: 480 774.48
+PageMediaBegin
+PageMediaNumber: 107
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.84
+PageMediaDimensions: 480 777.84
+PageMediaBegin
+PageMediaNumber: 108
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.2
+PageMediaDimensions: 480 772.2
+PageMediaBegin
+PageMediaNumber: 109
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.76
+PageMediaDimensions: 480 791.76
+PageMediaBegin
+PageMediaNumber: 110
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 762.84
+PageMediaDimensions: 480 762.84
+PageMediaBegin
+PageMediaNumber: 111
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.04
+PageMediaDimensions: 480 782.04
+PageMediaBegin
+PageMediaNumber: 112
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 762.84
+PageMediaDimensions: 480 762.84
+PageMediaBegin
+PageMediaNumber: 113
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.6
+PageMediaDimensions: 480 774.6
+PageMediaBegin
+PageMediaNumber: 114
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.84
+PageMediaDimensions: 480 774.84
+PageMediaBegin
+PageMediaNumber: 115
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.2
+PageMediaDimensions: 480 775.2
+PageMediaBegin
+PageMediaNumber: 116
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.68
+PageMediaDimensions: 480 769.68
+PageMediaBegin
+PageMediaNumber: 117
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.2
+PageMediaDimensions: 480 787.2
+PageMediaBegin
+PageMediaNumber: 118
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 752.52
+PageMediaDimensions: 480 752.52
+PageMediaBegin
+PageMediaNumber: 119
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 786.12
+PageMediaDimensions: 480 786.12
+PageMediaBegin
+PageMediaNumber: 120
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 749.76
+PageMediaDimensions: 480 749.76
+PageMediaBegin
+PageMediaNumber: 121
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.6
+PageMediaDimensions: 480 774.6
+PageMediaBegin
+PageMediaNumber: 122
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.68
+PageMediaDimensions: 480 766.68
+PageMediaBegin
+PageMediaNumber: 123
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 786.48
+PageMediaDimensions: 480 786.48
+PageMediaBegin
+PageMediaNumber: 124
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 757.8
+PageMediaDimensions: 480 757.8
+PageMediaBegin
+PageMediaNumber: 125
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 786.48
+PageMediaDimensions: 480 786.48
+PageMediaBegin
+PageMediaNumber: 126
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 749.52
+PageMediaDimensions: 480 749.52
+PageMediaBegin
+PageMediaNumber: 127
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.04
+PageMediaDimensions: 480 782.04
+PageMediaBegin
+PageMediaNumber: 128
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 760.68
+PageMediaDimensions: 480 760.68
+PageMediaBegin
+PageMediaNumber: 129
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 801.36
+PageMediaDimensions: 480 801.36
+PageMediaBegin
+PageMediaNumber: 130
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 756.36
+PageMediaDimensions: 480 756.36
+PageMediaBegin
+PageMediaNumber: 131
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 786.36
+PageMediaDimensions: 480 786.36
+PageMediaBegin
+PageMediaNumber: 132
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.72
+PageMediaDimensions: 480 771.72
+PageMediaBegin
+PageMediaNumber: 133
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 801.36
+PageMediaDimensions: 480 801.36
+PageMediaBegin
+PageMediaNumber: 134
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.76
+PageMediaDimensions: 480 773.76
+PageMediaBegin
+PageMediaNumber: 135
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783.96
+PageMediaDimensions: 480 783.96
+PageMediaBegin
+PageMediaNumber: 136
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.76
+PageMediaDimensions: 480 773.76
+PageMediaBegin
+PageMediaNumber: 137
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.8
+PageMediaDimensions: 480 781.8
+PageMediaBegin
+PageMediaNumber: 138
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.68
+PageMediaDimensions: 480 769.68
+PageMediaBegin
+PageMediaNumber: 139
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 789.6
+PageMediaDimensions: 480 789.6
+PageMediaBegin
+PageMediaNumber: 140
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.72
+PageMediaDimensions: 480 771.72
+PageMediaBegin
+PageMediaNumber: 141
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.84
+PageMediaDimensions: 480 774.84
+PageMediaBegin
+PageMediaNumber: 142
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 760.92
+PageMediaDimensions: 480 760.92
+PageMediaBegin
+PageMediaNumber: 143
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.36
+PageMediaDimensions: 480 771.36
+PageMediaBegin
+PageMediaNumber: 144
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.16
+PageMediaDimensions: 480 776.16
+PageMediaBegin
+PageMediaNumber: 145
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.04
+PageMediaDimensions: 480 785.04
+PageMediaBegin
+PageMediaNumber: 146
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.84
+PageMediaDimensions: 480 768.84
+PageMediaBegin
+PageMediaNumber: 147
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.32
+PageMediaDimensions: 480 781.32
+PageMediaBegin
+PageMediaNumber: 148
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.4
+PageMediaDimensions: 480 773.4
+PageMediaBegin
+PageMediaNumber: 149
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.28
+PageMediaDimensions: 480 779.28
+PageMediaBegin
+PageMediaNumber: 150
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.48
+PageMediaDimensions: 480 768.48
+PageMediaBegin
+PageMediaNumber: 151
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 746.4
+PageMediaDimensions: 480 746.4
+PageMediaBegin
+PageMediaNumber: 152
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.12
+PageMediaDimensions: 480 777.12
+PageMediaBegin
+PageMediaNumber: 153
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.88
+PageMediaDimensions: 480 764.88
+PageMediaBegin
+PageMediaNumber: 154
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.4
+PageMediaDimensions: 480 761.4
+PageMediaBegin
+PageMediaNumber: 155
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 792
+PageMediaDimensions: 480 792
+PageMediaBegin
+PageMediaNumber: 156
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.64
+PageMediaDimensions: 480 779.64
+PageMediaBegin
+PageMediaNumber: 157
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.84
+PageMediaDimensions: 480 765.84
+PageMediaBegin
+PageMediaNumber: 158
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 778.56
+PageMediaDimensions: 480 778.56
+PageMediaBegin
+PageMediaNumber: 159
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.2
+PageMediaDimensions: 480 766.2
+PageMediaBegin
+PageMediaNumber: 160
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 798.36
+PageMediaDimensions: 480 798.36
+PageMediaBegin
+PageMediaNumber: 161
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.88
+PageMediaDimensions: 480 764.88
+PageMediaBegin
+PageMediaNumber: 162
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.88
+PageMediaDimensions: 480 776.88
+PageMediaBegin
+PageMediaNumber: 163
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 739.44
+PageMediaDimensions: 480 739.44
+PageMediaBegin
+PageMediaNumber: 164
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.12
+PageMediaDimensions: 480 780.12
+PageMediaBegin
+PageMediaNumber: 165
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 762.24
+PageMediaDimensions: 480 762.24
+PageMediaBegin
+PageMediaNumber: 166
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.4
+PageMediaDimensions: 480 773.4
+PageMediaBegin
+PageMediaNumber: 167
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.32
+PageMediaDimensions: 480 787.32
+PageMediaBegin
+PageMediaNumber: 168
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.16
+PageMediaDimensions: 480 770.16
+PageMediaBegin
+PageMediaNumber: 169
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 800.88
+PageMediaDimensions: 480 800.88
+PageMediaBegin
+PageMediaNumber: 170
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.68
+PageMediaDimensions: 480 775.68
+PageMediaBegin
+PageMediaNumber: 171
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.12
+PageMediaDimensions: 480 771.12
+PageMediaBegin
+PageMediaNumber: 172
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.4
+PageMediaDimensions: 480 776.4
+PageMediaBegin
+PageMediaNumber: 173
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.84
+PageMediaDimensions: 480 780.84
+PageMediaBegin
+PageMediaNumber: 174
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.48
+PageMediaDimensions: 480 777.48
+PageMediaBegin
+PageMediaNumber: 175
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.4
+PageMediaDimensions: 480 770.4
+PageMediaBegin
+PageMediaNumber: 176
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.48
+PageMediaDimensions: 480 768.48
+PageMediaBegin
+PageMediaNumber: 177
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 749.88
+PageMediaDimensions: 480 749.88
+PageMediaBegin
+PageMediaNumber: 178
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.16
+PageMediaDimensions: 480 776.16
+PageMediaBegin
+PageMediaNumber: 179
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 746.16
+PageMediaDimensions: 480 746.16
+PageMediaBegin
+PageMediaNumber: 180
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.44
+PageMediaDimensions: 480 781.44
+PageMediaBegin
+PageMediaNumber: 181
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 738.48
+PageMediaDimensions: 480 738.48
+PageMediaBegin
+PageMediaNumber: 182
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.04
+PageMediaDimensions: 480 785.04
+PageMediaBegin
+PageMediaNumber: 183
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 729.6
+PageMediaDimensions: 480 729.6
+PageMediaBegin
+PageMediaNumber: 184
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 754.08
+PageMediaDimensions: 480 754.08
+PageMediaBegin
+PageMediaNumber: 185
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.48
+PageMediaDimensions: 480 771.48
+PageMediaBegin
+PageMediaNumber: 186
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.88
+PageMediaDimensions: 480 776.88
+PageMediaBegin
+PageMediaNumber: 187
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 767.04
+PageMediaDimensions: 480 767.04
+PageMediaBegin
+PageMediaNumber: 188
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.64
+PageMediaDimensions: 480 773.64
+PageMediaBegin
+PageMediaNumber: 189
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.44
+PageMediaDimensions: 480 772.44
+PageMediaBegin
+PageMediaNumber: 190
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.28
+PageMediaDimensions: 480 770.28
+PageMediaBegin
+PageMediaNumber: 191
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 760.44
+PageMediaDimensions: 480 760.44
+PageMediaBegin
+PageMediaNumber: 192
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.96
+PageMediaDimensions: 480 774.96
+PageMediaBegin
+PageMediaNumber: 193
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.08
+PageMediaDimensions: 480 769.08
+PageMediaBegin
+PageMediaNumber: 194
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.68
+PageMediaDimensions: 480 772.68
+PageMediaBegin
+PageMediaNumber: 195
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.4
+PageMediaDimensions: 480 773.4
+PageMediaBegin
+PageMediaNumber: 196
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.44
+PageMediaDimensions: 480 775.44
+PageMediaBegin
+PageMediaNumber: 197
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 757.08
+PageMediaDimensions: 480 757.08
+PageMediaBegin
+PageMediaNumber: 198
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.32
+PageMediaDimensions: 480 772.32
+PageMediaBegin
+PageMediaNumber: 199
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.84
+PageMediaDimensions: 480 771.84
+PageMediaBegin
+PageMediaNumber: 200
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.32
+PageMediaDimensions: 480 772.32
+PageMediaBegin
+PageMediaNumber: 201
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.88
+PageMediaDimensions: 480 776.88
+PageMediaBegin
+PageMediaNumber: 202
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.24
+PageMediaDimensions: 480 768.24
+PageMediaBegin
+PageMediaNumber: 203
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.76
+PageMediaDimensions: 480 761.76
+PageMediaBegin
+PageMediaNumber: 204
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 788.52
+PageMediaDimensions: 480 788.52
+PageMediaBegin
+PageMediaNumber: 205
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.44
+PageMediaDimensions: 480 775.44
+PageMediaBegin
+PageMediaNumber: 206
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.6
+PageMediaDimensions: 480 780.6
+PageMediaBegin
+PageMediaNumber: 207
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.28
+PageMediaDimensions: 480 791.28
+PageMediaBegin
+PageMediaNumber: 208
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.04
+PageMediaDimensions: 480 776.04
+PageMediaBegin
+PageMediaNumber: 209
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.64
+PageMediaDimensions: 480 785.64
+PageMediaBegin
+PageMediaNumber: 210
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.6
+PageMediaDimensions: 480 771.6
+PageMediaBegin
+PageMediaNumber: 211
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.56
+PageMediaDimensions: 480 781.56
+PageMediaBegin
+PageMediaNumber: 212
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 781.32
+PageMediaDimensions: 480 781.32
+PageMediaBegin
+PageMediaNumber: 213
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 799.44
+PageMediaDimensions: 480 799.44
+PageMediaBegin
+PageMediaNumber: 214
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.76
+PageMediaDimensions: 480 779.76
+PageMediaBegin
+PageMediaNumber: 215
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.88
+PageMediaDimensions: 480 764.88
+PageMediaBegin
+PageMediaNumber: 216
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 794.64
+PageMediaDimensions: 480 794.64
+PageMediaBegin
+PageMediaNumber: 217
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 810
+PageMediaDimensions: 480 810
+PageMediaBegin
+PageMediaNumber: 218
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.56
+PageMediaDimensions: 480 769.56
+PageMediaBegin
+PageMediaNumber: 219
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783.24
+PageMediaDimensions: 480 783.24
+PageMediaBegin
+PageMediaNumber: 220
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.64
+PageMediaDimensions: 480 773.64
+PageMediaBegin
+PageMediaNumber: 221
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 750.72
+PageMediaDimensions: 480 750.72
+PageMediaBegin
+PageMediaNumber: 222
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 774.96
+PageMediaDimensions: 480 774.96
+PageMediaBegin
+PageMediaNumber: 223
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.88
+PageMediaDimensions: 480 779.88
+PageMediaBegin
+PageMediaNumber: 224
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.04
+PageMediaDimensions: 480 773.04
+PageMediaBegin
+PageMediaNumber: 225
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.12
+PageMediaDimensions: 480 777.12
+PageMediaBegin
+PageMediaNumber: 226
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 777.24
+PageMediaDimensions: 480 777.24
+PageMediaBegin
+PageMediaNumber: 227
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 748.92
+PageMediaDimensions: 480 748.92
+PageMediaBegin
+PageMediaNumber: 228
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.44
+PageMediaDimensions: 480 775.44
+PageMediaBegin
+PageMediaNumber: 229
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.36
+PageMediaDimensions: 480 765.36
+PageMediaBegin
+PageMediaNumber: 230
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 788.88
+PageMediaDimensions: 480 788.88
+PageMediaBegin
+PageMediaNumber: 231
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771
+PageMediaDimensions: 480 771
+PageMediaBegin
+PageMediaNumber: 232
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.4
+PageMediaDimensions: 480 782.4
+PageMediaBegin
+PageMediaNumber: 233
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.28
+PageMediaDimensions: 480 773.28
+PageMediaBegin
+PageMediaNumber: 234
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 746.64
+PageMediaDimensions: 480 746.64
+PageMediaBegin
+PageMediaNumber: 235
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 738.84
+PageMediaDimensions: 480 738.84
+PageMediaBegin
+PageMediaNumber: 236
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 801
+PageMediaDimensions: 480 801
+PageMediaBegin
+PageMediaNumber: 237
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.48
+PageMediaDimensions: 480 765.48
+PageMediaBegin
+PageMediaNumber: 238
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.4
+PageMediaDimensions: 480 773.4
+PageMediaBegin
+PageMediaNumber: 239
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771
+PageMediaDimensions: 480 771
+PageMediaBegin
+PageMediaNumber: 240
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783
+PageMediaDimensions: 480 783
+PageMediaBegin
+PageMediaNumber: 241
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 749.76
+PageMediaDimensions: 480 749.76
+PageMediaBegin
+PageMediaNumber: 242
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783
+PageMediaDimensions: 480 783
+PageMediaBegin
+PageMediaNumber: 243
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.48
+PageMediaDimensions: 480 780.48
+PageMediaBegin
+PageMediaNumber: 244
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.84
+PageMediaDimensions: 480 765.84
+PageMediaBegin
+PageMediaNumber: 245
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 789.84
+PageMediaDimensions: 480 789.84
+PageMediaBegin
+PageMediaNumber: 246
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 757.92
+PageMediaDimensions: 480 757.92
+PageMediaBegin
+PageMediaNumber: 247
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 768.12
+PageMediaDimensions: 480 768.12
+PageMediaBegin
+PageMediaNumber: 248
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783.12
+PageMediaDimensions: 480 783.12
+PageMediaBegin
+PageMediaNumber: 249
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 745.44
+PageMediaDimensions: 480 745.44
+PageMediaBegin
+PageMediaNumber: 250
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783.12
+PageMediaDimensions: 480 783.12
+PageMediaBegin
+PageMediaNumber: 251
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.88
+PageMediaDimensions: 480 791.88
+PageMediaBegin
+PageMediaNumber: 252
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 779.28
+PageMediaDimensions: 480 779.28
+PageMediaBegin
+PageMediaNumber: 253
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 800.88
+PageMediaDimensions: 480 800.88
+PageMediaBegin
+PageMediaNumber: 254
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.68
+PageMediaDimensions: 480 772.68
+PageMediaBegin
+PageMediaNumber: 255
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 775.8
+PageMediaDimensions: 480 775.8
+PageMediaBegin
+PageMediaNumber: 256
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.88
+PageMediaDimensions: 480 770.88
+PageMediaBegin
+PageMediaNumber: 257
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.76
+PageMediaDimensions: 480 773.76
+PageMediaBegin
+PageMediaNumber: 258
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.56
+PageMediaDimensions: 480 769.56
+PageMediaBegin
+PageMediaNumber: 259
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780
+PageMediaDimensions: 480 780
+PageMediaBegin
+PageMediaNumber: 260
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.2
+PageMediaDimensions: 480 766.2
+PageMediaBegin
+PageMediaNumber: 261
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 793.44
+PageMediaDimensions: 480 793.44
+PageMediaBegin
+PageMediaNumber: 262
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 755.52
+PageMediaDimensions: 480 755.52
+PageMediaBegin
+PageMediaNumber: 263
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 761.28
+PageMediaDimensions: 480 761.28
+PageMediaBegin
+PageMediaNumber: 264
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.96
+PageMediaDimensions: 480 780.96
+PageMediaBegin
+PageMediaNumber: 265
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.76
+PageMediaDimensions: 480 764.76
+PageMediaBegin
+PageMediaNumber: 266
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783
+PageMediaDimensions: 480 783
+PageMediaBegin
+PageMediaNumber: 267
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 765.12
+PageMediaDimensions: 480 765.12
+PageMediaBegin
+PageMediaNumber: 268
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 794.16
+PageMediaDimensions: 480 794.16
+PageMediaBegin
+PageMediaNumber: 269
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.04
+PageMediaDimensions: 480 770.04
+PageMediaBegin
+PageMediaNumber: 270
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783
+PageMediaDimensions: 480 783
+PageMediaBegin
+PageMediaNumber: 271
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.64
+PageMediaDimensions: 480 776.64
+PageMediaBegin
+PageMediaNumber: 272
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 783
+PageMediaDimensions: 480 783
+PageMediaBegin
+PageMediaNumber: 273
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 785.52
+PageMediaDimensions: 480 785.52
+PageMediaBegin
+PageMediaNumber: 274
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 760.44
+PageMediaDimensions: 480 760.44
+PageMediaBegin
+PageMediaNumber: 275
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.64
+PageMediaDimensions: 480 773.64
+PageMediaBegin
+PageMediaNumber: 276
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 773.4
+PageMediaDimensions: 480 773.4
+PageMediaBegin
+PageMediaNumber: 277
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.32
+PageMediaDimensions: 480 772.32
+PageMediaBegin
+PageMediaNumber: 278
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 784.08
+PageMediaDimensions: 480 784.08
+PageMediaBegin
+PageMediaNumber: 279
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.6
+PageMediaDimensions: 480 780.6
+PageMediaBegin
+PageMediaNumber: 280
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 756.84
+PageMediaDimensions: 480 756.84
+PageMediaBegin
+PageMediaNumber: 281
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 755.28
+PageMediaDimensions: 480 755.28
+PageMediaBegin
+PageMediaNumber: 282
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.68
+PageMediaDimensions: 480 766.68
+PageMediaBegin
+PageMediaNumber: 283
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 780.12
+PageMediaDimensions: 480 780.12
+PageMediaBegin
+PageMediaNumber: 284
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 769.56
+PageMediaDimensions: 480 769.56
+PageMediaBegin
+PageMediaNumber: 285
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 782.04
+PageMediaDimensions: 480 782.04
+PageMediaBegin
+PageMediaNumber: 286
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 762.72
+PageMediaDimensions: 480 762.72
+PageMediaBegin
+PageMediaNumber: 287
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 787.92
+PageMediaDimensions: 480 787.92
+PageMediaBegin
+PageMediaNumber: 288
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 770.04
+PageMediaDimensions: 480 770.04
+PageMediaBegin
+PageMediaNumber: 289
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 784.08
+PageMediaDimensions: 480 784.08
+PageMediaBegin
+PageMediaNumber: 290
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 793.44
+PageMediaDimensions: 480 793.44
+PageMediaBegin
+PageMediaNumber: 291
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 757.2
+PageMediaDimensions: 480 757.2
+PageMediaBegin
+PageMediaNumber: 292
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 791.04
+PageMediaDimensions: 480 791.04
+PageMediaBegin
+PageMediaNumber: 293
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 772.2
+PageMediaDimensions: 480 772.2
+PageMediaBegin
+PageMediaNumber: 294
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 766.2
+PageMediaDimensions: 480 766.2
+PageMediaBegin
+PageMediaNumber: 295
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 801.12
+PageMediaDimensions: 480 801.12
+PageMediaBegin
+PageMediaNumber: 296
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.64
+PageMediaDimensions: 480 776.64
+PageMediaBegin
+PageMediaNumber: 297
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 752.28
+PageMediaDimensions: 480 752.28
+PageMediaBegin
+PageMediaNumber: 298
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 756.48
+PageMediaDimensions: 480 756.48
+PageMediaBegin
+PageMediaNumber: 299
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 764.64
+PageMediaDimensions: 480 764.64
+PageMediaBegin
+PageMediaNumber: 300
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 776.4
+PageMediaDimensions: 480 776.4
+PageMediaBegin
+PageMediaNumber: 301
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 759
+PageMediaDimensions: 480 759
+PageMediaBegin
+PageMediaNumber: 302
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 763.32
+PageMediaDimensions: 480 763.32
+PageMediaBegin
+PageMediaNumber: 303
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 771.84
+PageMediaDimensions: 480 771.84
+PageMediaBegin
+PageMediaNumber: 304
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 767.16
+PageMediaDimensions: 480 767.16
+PageMediaBegin
+PageMediaNumber: 305
+PageMediaRotation: 0
+PageMediaRect: 0 0 480 778.2
+PageMediaDimensions: 480 778.2
