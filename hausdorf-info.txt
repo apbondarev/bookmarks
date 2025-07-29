@@ -78,7 +78,7 @@ BookmarkLevel: 2
 BookmarkPageNumber: 51
 BookmarkBegin
 BookmarkTitle: Глава IV. Порядковые числа
-BookmarkLevel: 2
+BookmarkLevel: 1
 BookmarkPageNumber: 59
 BookmarkBegin
 BookmarkTitle: 12. Теорема Zermelo
