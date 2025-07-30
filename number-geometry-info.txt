@@ -13,178 +13,346 @@ InfoValue: D:20030228060615+03'00'
 PdfID0: 3f71a7f18661fa7473109dfce10909bc
 PdfID1: 86f448d835bdb740991102de78411007
 NumberOfPages: 420
-
-От редактора перевода
-Предисловие
-Обозначения
-Введение
-Глава I. Решетки
-1. Введение
-2. Базисы и подрешетки
-3. Линейные преобразования решеток
-4. Формы и решетки
-5. Взаимная решетка
-Глава II. Теория приведения
-1. Введение
-2. Основной процесс
-3. Определенные квадратичные формы
-4. Неопределенные квадратичные формы
-5. Бинарные кубические формы
-6. Другие формы
-Глава III. Теоремы Блихфельдта и Минковского
-1. Введение
-2. Теоремы Блихфельдта и Минковского
-3. Обобщения на неотрицательные функции
-4. Характеризация решеток
-5. Критические определители
-6. Метод Морделла
-7. Представление целых чисел квадратичными формами
-Глава IV. Лучевые функции
-1. Введение
-2. Общие лучевые функции
-3. Выпуклые множества
-4. Лучевые функции и решетки
-Глава V. Теорема Малера о компактности
-1. Введение
-2. Линейные преобразования
-3. Сходимость решеток
-4. Компактность решеток
-5. Критические решетки
-6. Ограниченные звездные тела
-7. Приводимость
-8. Выпуклые тела
-9. Шары
-10. Приложения к диофантовым приближениям
-Глава VI. Теорема Минковского - Главки
-1. Введение
-2. Подрешетки простого индекса
-3. Теорема Минковского - Главки
-4. Теоремы Шмидта
-5. Гипотеза Роджерса
-6. Неограниченные звездные тела
-Глава VII. Факторпространство
-1. Введение
-2. Общие свойства
-3. Теорема о сумме
-Глава VIII. Последовательные минимумы
-1. Введение
-2. Шapы
-3. Общие лучевые функции
-4. Выпуклые множества
-5. Взаимные выпуклые тела
-Глава IX. Укладки
-1. Введение
-2. Множества, для которых V(𝔍) = 2^n Δ(𝔍)
-3. Результаты Вороного
-4. Подготовительные леммы
-5. Теорема Фейеша Тота
-6. Цилиндры
-7. Укладки шаров
-8. Произведение n линейных форм
-Глава Х. Автоморфизмы
-1. Введение
-2. Специальные формы
-3. Метод Морделла
-4. Существование автоморфизмов
-5. Теоремы изоляции
-6. Применение теорем изоляции
-7. Бесконечность числа решений
-8. Локальные методы
-Глава XI. Неоднородные проблемы
-1. Введение
-2. Выпуклые множества
-3. Теоремы переноса для выпуклых множеств
-4. Произведение и линейных форм
-Приложение
-Литература
-Указатель
-
-5
-7
-8
-9
-19
-19
-19
-31
-31
-35
-40
-40
-41
-44
-50
-71
-81
-87
-87
-92
-98
-104
-106
-111
-128
-134
-134
-137
-140
-153
-155
-155
-156
-160
-169
-177
-182
-190
-194
-203
-205
-216
-216
-219
-224
-226
-230
-233
-238
-238
-238
-242
-247
-247
-251
-254
-261
-268
-273
-273
-279
-284
-288
-294
-300
-302
-306
-313
-313
-325
-328
-340
-348
-358
-421
-362
-366
-369
-369
-375
-380
-390
-402
-405
-417
-
+BookmarkBegin
+BookmarkTitle: От редактора перевода
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Предисловие
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Обозначения
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Введение
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Глава I. Решетки
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 2. Базисы и подрешетки
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 3. Линейные преобразования решеток
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 4. Формы и решетки
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: 5. Взаимная решетка
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Глава II. Теория приведения
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: 2. Основной процесс
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 3. Определенные квадратичные формы
+BookmarkLevel: 2
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: 4. Неопределенные квадратичные формы
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: 5. Бинарные кубические формы
+BookmarkLevel: 2
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: 6. Другие формы
+BookmarkLevel: 2
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Глава III. Теоремы Блихфельдта и Минковского
+BookmarkLevel: 1
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: 2. Теоремы Блихфельдта и Минковского
+BookmarkLevel: 2
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: 3. Обобщения на неотрицательные функции
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 4. Характеризация решеток
+BookmarkLevel: 2
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: 5. Критические определители
+BookmarkLevel: 2
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: 6. Метод Морделла
+BookmarkLevel: 2
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: 7. Представление целых чисел квадратичными формами
+BookmarkLevel: 2
+BookmarkPageNumber: 127
+BookmarkBegin
+BookmarkTitle: Глава IV. Лучевые функции
+BookmarkLevel: 1
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 133
+BookmarkBegin
+BookmarkTitle: 2. Общие лучевые функции
+BookmarkLevel: 2
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 3. Выпуклые множества
+BookmarkLevel: 2
+BookmarkPageNumber: 139
+BookmarkBegin
+BookmarkTitle: 4. Лучевые функции и решетки
+BookmarkLevel: 2
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Глава V. Теорема Малера о компактности
+BookmarkLevel: 1
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: 2. Линейные преобразования
+BookmarkLevel: 2
+BookmarkPageNumber: 155
+BookmarkBegin
+BookmarkTitle: 3. Сходимость решеток
+BookmarkLevel: 2
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: 4. Компактность решеток
+BookmarkLevel: 2
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: 5. Критические решетки
+BookmarkLevel: 2
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: 6. Ограниченные звездные тела
+BookmarkLevel: 2
+BookmarkPageNumber: 181
+BookmarkBegin
+BookmarkTitle: 7. Приводимость
+BookmarkLevel: 2
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: 8. Выпуклые тела
+BookmarkLevel: 2
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: 9. Шары
+BookmarkLevel: 2
+BookmarkPageNumber: 202
+BookmarkBegin
+BookmarkTitle: 10. Приложения к диофантовым приближениям
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: Глава VI. Теорема Минковского - Главки
+BookmarkLevel: 1
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 2. Подрешетки простого индекса
+BookmarkLevel: 2
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: 3. Теорема Минковского - Главки
+BookmarkLevel: 2
+BookmarkPageNumber: 223
+BookmarkBegin
+BookmarkTitle: 4. Теоремы Шмидта
+BookmarkLevel: 2
+BookmarkPageNumber: 225
+BookmarkBegin
+BookmarkTitle: 5. Гипотеза Роджерса
+BookmarkLevel: 2
+BookmarkPageNumber: 229
+BookmarkBegin
+BookmarkTitle: 6. Неограниченные звездные тела
+BookmarkLevel: 2
+BookmarkPageNumber: 232
+BookmarkBegin
+BookmarkTitle: Глава VII. Факторпространство
+BookmarkLevel: 1
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: 2. Общие свойства
+BookmarkLevel: 2
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: 3. Теорема о сумме
+BookmarkLevel: 2
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: Глава VIII. Последовательные минимумы
+BookmarkLevel: 1
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: 2. Шapы
+BookmarkLevel: 2
+BookmarkPageNumber: 250
+BookmarkBegin
+BookmarkTitle: 3. Общие лучевые функции
+BookmarkLevel: 2
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: 4. Выпуклые множества
+BookmarkLevel: 2
+BookmarkPageNumber: 260
+BookmarkBegin
+BookmarkTitle: 5. Взаимные выпуклые тела
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: Глава IX. Укладки
+BookmarkLevel: 1
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: 2. Множества, для которых V(𝔍) = 2^n Δ(𝔍)
+BookmarkLevel: 2
+BookmarkPageNumber: 278
+BookmarkBegin
+BookmarkTitle: 3. Результаты Вороного
+BookmarkLevel: 2
+BookmarkPageNumber: 283
+BookmarkBegin
+BookmarkTitle: 4. Подготовительные леммы
+BookmarkLevel: 2
+BookmarkPageNumber: 287
+BookmarkBegin
+BookmarkTitle: 5. Теорема Фейеша Тота
+BookmarkLevel: 2
+BookmarkPageNumber: 293
+BookmarkBegin
+BookmarkTitle: 6. Цилиндры
+BookmarkLevel: 2
+BookmarkPageNumber: 299
+BookmarkBegin
+BookmarkTitle: 7. Укладки шаров
+BookmarkLevel: 2
+BookmarkPageNumber: 301
+BookmarkBegin
+BookmarkTitle: 8. Произведение n линейных форм
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: Глава Х. Автоморфизмы
+BookmarkLevel: 1
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 312
+BookmarkBegin
+BookmarkTitle: 2. Специальные формы
+BookmarkLevel: 2
+BookmarkPageNumber: 324
+BookmarkBegin
+BookmarkTitle: 3. Метод Морделла
+BookmarkLevel: 2
+BookmarkPageNumber: 327
+BookmarkBegin
+BookmarkTitle: 4. Существование автоморфизмов
+BookmarkLevel: 2
+BookmarkPageNumber: 339
+BookmarkBegin
+BookmarkTitle: 5. Теоремы изоляции
+BookmarkLevel: 2
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: 6. Применение теорем изоляции
+BookmarkLevel: 2
+BookmarkPageNumber: 357
+BookmarkBegin
+BookmarkTitle: 7. Бесконечность числа решений
+BookmarkLevel: 2
+BookmarkPageNumber: 361
+BookmarkBegin
+BookmarkTitle: 8. Локальные методы
+BookmarkLevel: 2
+BookmarkPageNumber: 365
+BookmarkBegin
+BookmarkTitle: Глава XI. Неоднородные проблемы
+BookmarkLevel: 1
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: 1. Введение
+BookmarkLevel: 2
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: 2. Выпуклые множества
+BookmarkLevel: 2
+BookmarkPageNumber: 374
+BookmarkBegin
+BookmarkTitle: 3. Теоремы переноса для выпуклых множеств
+BookmarkLevel: 2
+BookmarkPageNumber: 379
+BookmarkBegin
+BookmarkTitle: 4. Произведение и линейных форм
+BookmarkLevel: 2
+BookmarkPageNumber: 389
+BookmarkBegin
+BookmarkTitle: Приложение
+BookmarkLevel: 1
+BookmarkPageNumber: 401
+BookmarkBegin
+BookmarkTitle: Литература
+BookmarkLevel: 1
+BookmarkPageNumber: 404
+BookmarkBegin
+BookmarkTitle: Указатель
+BookmarkLevel: 1
+BookmarkPageNumber: 416
+BookmarkBegin
+BookmarkTitle: Оглавление
+BookmarkLevel: 1
+BookmarkPageNumber: 418
 PageMediaBegin
 PageMediaNumber: 1
 PageMediaRotation: 0
@@ -2312,7 +2480,6 @@ PageMediaRotation: 0
 PageMediaRect: 0 0 396.96 601.2
 PageMediaDimensions: 396.96 601.2
 PageMediaCropRect: 23.04 393.12 366.72 583.92
-
 PageLabelBegin
 PageLabelNewIndex: 1
 PageLabelStart: 1
