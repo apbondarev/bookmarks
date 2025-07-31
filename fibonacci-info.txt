@@ -52,7 +52,7 @@ BookmarkPageNumber: 13
 BookmarkBegin
 BookmarkTitle: 1.6. Задача о прыгуне
 BookmarkLevel: 2
-BookmarkPageNumber: 13
+BookmarkPageNumber: 14
 BookmarkBegin
 BookmarkTitle: 2. Теоретико-числовые свойства чисел Фибоначчи
 BookmarkLevel: 1
