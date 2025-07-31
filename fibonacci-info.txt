@@ -94,7 +94,7 @@ BookmarkTitle: 1.16. Формула Бине
 BookmarkLevel: 2
 BookmarkPageNumber: 22
 BookmarkBegin
-BookmarkTitle: 1.17. Формулы для 𝛼^n и 𝛽^n 
+BookmarkTitle: 1.17. Формулы для \alpha^n и \beta^n 
 BookmarkLevel: 2
 BookmarkPageNumber: 26
 BookmarkBegin
