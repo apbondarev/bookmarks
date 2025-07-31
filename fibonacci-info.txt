@@ -26,23 +26,23 @@ BookmarkTitle: Введение
 BookmarkLevel: 1
 BookmarkPageNumber: 8
 BookmarkBegin
-BookmarkTitle: Простейшие свойства чисел Фибоначчи
+BookmarkTitle: 1. Простейшие свойства чисел Фибоначчи
 BookmarkLevel: 1
 BookmarkPageNumber: 12
 BookmarkBegin
-BookmarkTitle: Теоретико-числовые свойства чисел Фибоначчи
+BookmarkTitle: 2. Теоретико-числовые свойства чисел Фибоначчи
 BookmarkLevel: 1
 BookmarkPageNumber: 40
 BookmarkBegin
-BookmarkTitle: Числа Фибоначчи и непрерывные дроби
+BookmarkTitle: 3. Числа Фибоначчи и непрерывные дроби
 BookmarkLevel: 1
 BookmarkPageNumber: 72
 BookmarkBegin
-BookmarkTitle: Числа Фибоначчи и геометрия
+BookmarkTitle: 4. Числа Фибоначчи и геометрия
 BookmarkLevel: 1
 BookmarkPageNumber: 95
 BookmarkBegin
-BookmarkTitle: Числа Фибоначчи и теория поиска
+BookmarkTitle: 5. Числа Фибоначчи и теория поиска
 BookmarkLevel: 1
 BookmarkPageNumber: 116
 BookmarkBegin
