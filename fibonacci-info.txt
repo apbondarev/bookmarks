@@ -31,27 +31,27 @@ BookmarkLevel: 1
 BookmarkPageNumber: 12
 BookmarkBegin
 BookmarkTitle: 1.1. Сумма первых n чисел
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 12
 BookmarkBegin
 BookmarkTitle: 1.2. Сумма с нечетными номерами
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 12
 BookmarkBegin
 BookmarkTitle: 1.3. Сумма с четными номерами
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 12
 BookmarkBegin
 BookmarkTitle: 1.4. Сумма квадратов
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 13
 BookmarkBegin
 BookmarkTitle: 1.5. Метод полной индукции
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 13
 BookmarkBegin
 BookmarkTitle: 1.6. Задача о прыгуне
-BookmarkLevel: 1
+BookmarkLevel: 2
 BookmarkPageNumber: 13
 BookmarkBegin
 BookmarkTitle: 2. Теоретико-числовые свойства чисел Фибоначчи
