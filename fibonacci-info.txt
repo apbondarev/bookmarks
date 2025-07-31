@@ -54,6 +54,91 @@ BookmarkTitle: 1.6. Задача о прыгуне
 BookmarkLevel: 2
 BookmarkPageNumber: 14
 BookmarkBegin
+BookmarkTitle: 1.7. Формула для u_{n_m}
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: 1.8. Формула для u_{2n}
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: 1.9. Формула для u_{n}^2
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: 1.10. Свойства сумм
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 1.11. Биномиальные коэффициенты
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: 1.12. Треугольник Паскаля
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: 1.13. Сумма строки в треугольнике Паскаля
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.14. Формула для биномиальных коэффициентов
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: 1.15. Сумма по восходящим диагоналям треугольника Паскаля
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: 1.16. Формула Бине
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 1.17. Формулы для 𝛼^n и 𝛽^n 
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: 1.18. Применение формулы Бине для вычисления сумм
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.19. Пример применения формулы Бине для вычисления суммы кубов
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 1.20. Скорость роста чисел Фибоначчи
+BookmarkLevel: 2
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: 1.21. Верхняя и нижняя границы для чисел Фибоначчи
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: 1.22. Последовательность s_n(x) в виде суммы по u_i x^i
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.23. Предел s_n(x)
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: 1.24. Другое доказательство для предела s_n(x)
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 1.25. Числа Фибоначчи с произвольным целым индексом
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: 1.26. Уравнения для отрицательных индексов
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 1.27. Фибоначчиевая система счисления
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+
+BookmarkBegin
 BookmarkTitle: 2. Теоретико-числовые свойства чисел Фибоначчи
 BookmarkLevel: 1
 BookmarkPageNumber: 40
